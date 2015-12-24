@@ -1,0 +1,3950 @@
+# depslib dependency file v1.0
+1368708400 source:c:\users\zim\desktop\mimu pc\algorithm.cpp
+	"stdafx.h"
+	<iostream>
+	"algorithm.h"
+	"DataConvernt.h"
+	"glm/glm.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtx/quaternion.hpp"
+
+1368863696 c:\users\zim\desktop\mimu pc\stdafx.h
+	<GL/glew.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<glm/glm.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtx/quaternion.hpp>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<time.h>
+	"algorithm.h"
+	<math.h>
+	<stdlib.h>
+	<conio.h>
+	<Gdiplus.h>
+
+1368944412 c:\users\zim\desktop\mimu pc\algorithm.h
+	"glm/glm.hpp"
+	<iostream>
+	"glm/gtc/type_ptr.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtx/quaternion.hpp"
+
+1368939158 c:\users\zim\desktop\mimu pc\dataconvernt.h
+	"algorithm.h"
+
+1364096784 source:c:\users\zim\desktop\mimu pc\camera.cpp
+	"camera.h"
+
+1364107802 c:\users\zim\desktop\mimu pc\camera.h
+	<cstdio>
+	<gl/glu.h>
+	<glm/glm.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<GL/freeglut.h>
+
+1368800994 source:c:\users\zim\desktop\mimu pc\com.cpp
+	"stdafx.h"
+
+1369204854 source:c:\users\zim\desktop\mimu pc\dataconvernt.cpp
+	"stdafx.h"
+	"DataConvernt.h"
+	"kalman.h"
+	"SetCursorTest.h"
+	"COM.h"
+	"rs232.h"
+
+1367319668 c:\users\zim\desktop\mimu pc\kalman.h
+
+1368945772 c:\users\zim\desktop\mimu pc\setcursortest.h
+	"DataConvernt.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1368800358 c:\users\zim\desktop\mimu pc\com.h
+
+1368800814 c:\users\zim\desktop\mimu pc\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<windows.h>
+
+1368539436 source:c:\users\zim\desktop\mimu pc\gl.cpp
+	"stdafx.h"
+	"camera.h"
+	"DataConvernt.h"
+	<vector>
+
+1367419404 source:c:\users\zim\desktop\mimu pc\kalman.cpp
+	"algorithm.h"
+	"kalman.h"
+	"vector.h"
+
+1362138982 c:\users\zim\desktop\mimu pc\vector.h
+	<memory.h>
+	<stdio.h>
+
+1369203355 source:c:\users\zim\desktop\mimu pc\main.cpp
+	"stdafx.h"
+	"GL.h"
+	"DataConvernt.h"
+	"SetCursorTest.h"
+	"COM.h"
+	"rs232.h"
+
+1364099590 c:\users\zim\desktop\mimu pc\gl.h
+
+1368800786 source:c:\users\zim\desktop\mimu pc\rs232.c
+	"rs232.h"
+
+1369204913 source:c:\users\zim\desktop\mimu pc\setcursortest.cpp
+	"stdafx.h"
+	"SetCursorTest.h"
+	"time.h"
+	"draw.h"
+	<stdlib.h>
+
+1367758359 source:f:\360ÔÆÅÌ\mimu pc\algorithm.cpp
+	"stdafx.h"
+	<iostream>
+	"algorithm.h"
+	"DataConvernt.h"
+	"glm/glm.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtx/quaternion.hpp"
+
+1368117542 f:\360ÔÆÅÌ\mimu pc\stdafx.h
+	<GL/glew.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<glm/glm.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtx/quaternion.hpp>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<time.h>
+	"algorithm.h"
+	<math.h>
+	<stdlib.h>
+	<conio.h>
+	<Gdiplus.h>
+
+1367656213 f:\360ÔÆÅÌ\mimu pc\algorithm.h
+	"glm/glm.hpp"
+	<iostream>
+	"glm/gtc/type_ptr.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtx/quaternion.hpp"
+
+1367496562 f:\360ÔÆÅÌ\mimu pc\dataconvernt.h
+	"algorithm"
+
+1364096784 source:f:\360ÔÆÅÌ\mimu pc\camera.cpp
+	"camera.h"
+
+1364107802 f:\360ÔÆÅÌ\mimu pc\camera.h
+	<cstdio>
+	<gl/glu.h>
+	<glm/glm.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<GL/freeglut.h>
+
+1367263204 source:f:\360ÔÆÅÌ\mimu pc\com.cpp
+	"stdafx.h"
+
+1368282363 source:f:\360ÔÆÅÌ\mimu pc\dataconvernt.cpp
+	"stdafx.h"
+	"DataConvernt.h"
+	"kalman.h"
+	"SetCursorTest.h"
+	"COM.h"
+	"rs232.h"
+
+1367319668 f:\360ÔÆÅÌ\mimu pc\kalman.h
+
+1367759122 f:\360ÔÆÅÌ\mimu pc\setcursortest.h
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1366981122 f:\360ÔÆÅÌ\mimu pc\com.h
+
+1367160210 f:\360ÔÆÅÌ\mimu pc\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<windows.h>
+
+1368282930 source:f:\360ÔÆÅÌ\mimu pc\gl.cpp
+	"stdafx.h"
+	"camera.h"
+	"DataConvernt.h"
+	<vector>
+
+1367419404 source:f:\360ÔÆÅÌ\mimu pc\kalman.cpp
+	"algorithm.h"
+	"kalman.h"
+	"vector.h"
+
+1362138982 f:\360ÔÆÅÌ\mimu pc\vector.h
+	<memory.h>
+	<stdio.h>
+
+1367263112 source:f:\360ÔÆÅÌ\mimu pc\rs232.c
+	"rs232.h"
+
+1368283209 source:f:\360ÔÆÅÌ\mimu pc\setcursortest.cpp
+	"stdafx.h"
+	"SetCursorTest.h"
+	"time.h"
+	"draw.h"
+	<stdlib.h>
+
+1368283341 source:f:\360ÔÆÅÌ\mimu pc\main.cpp
+	"stdafx.h"
+	"GL.h"
+	"DataConvernt.h"
+	"SetCursorTest.h"
+	"COM.h"
+	"rs232.h"
+
+1364099590 f:\360ÔÆÅÌ\mimu pc\gl.h
+
+900555124 f:\360ÔÆÅÌ\mimu pc\resource.h
+
+1368283391 source:f:\360ÔÆÅÌ\mimu pc\draw.cpp
+	"draw.h"
+
+1368280660 f:\360ÔÆÅÌ\mimu pc\draw.h
+	"stdafx.h"
+
+1369152627 source:c:\users\zim\desktop\mimu pc\draw.cpp
+	"draw.h"
+
+1369141932 c:\users\zim\desktop\mimu pc\draw.h
+	"stdafx.h"
+
+1368708398 source:c:\users\Ò»Üø\desktop\mimu pc\algorithm.cpp
+	"stdafx.h"
+	<iostream>
+	"algorithm.h"
+	"DataConvernt.h"
+	"glm/glm.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtx/quaternion.hpp"
+
+1368863694 c:\users\Ò»Üø\desktop\mimu pc\stdafx.h
+	<GL/glew.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<glm/glm.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtx/quaternion.hpp>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<time.h>
+	"algorithm.h"
+	<math.h>
+	<stdlib.h>
+	<conio.h>
+	<Gdiplus.h>
+
+1368944410 c:\users\Ò»Üø\desktop\mimu pc\algorithm.h
+	"glm/glm.hpp"
+	<iostream>
+	"glm/gtc/type_ptr.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtx/quaternion.hpp"
+
+1368939156 c:\users\Ò»Üø\desktop\mimu pc\dataconvernt.h
+	"algorithm.h"
+
+1364096784 source:c:\users\Ò»Üø\desktop\mimu pc\camera.cpp
+	"camera.h"
+
+1364107802 c:\users\Ò»Üø\desktop\mimu pc\camera.h
+	<cstdio>
+	<gl/glu.h>
+	<glm/glm.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<GL/freeglut.h>
+
+1368800993 source:c:\users\Ò»Üø\desktop\mimu pc\com.cpp
+	"stdafx.h"
+
+1369140018 source:c:\users\Ò»Üø\desktop\mimu pc\dataconvernt.cpp
+	"stdafx.h"
+	"DataConvernt.h"
+	"kalman.h"
+	"SetCursorTest.h"
+	"COM.h"
+	"rs232.h"
+
+1367319668 c:\users\Ò»Üø\desktop\mimu pc\kalman.h
+
+1368945770 c:\users\Ò»Üø\desktop\mimu pc\setcursortest.h
+	"DataConvernt.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1368800356 c:\users\Ò»Üø\desktop\mimu pc\com.h
+
+1368800813 c:\users\Ò»Üø\desktop\mimu pc\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<windows.h>
+
+1369142332 source:c:\users\Ò»Üø\desktop\mimu pc\draw.cpp
+	"draw.h"
+
+1369141930 c:\users\Ò»Üø\desktop\mimu pc\draw.h
+	"stdafx.h"
+
+1368539436 source:c:\users\Ò»Üø\desktop\mimu pc\gl.cpp
+	"stdafx.h"
+	"camera.h"
+	"DataConvernt.h"
+	<vector>
+
+1367419404 source:c:\users\Ò»Üø\desktop\mimu pc\kalman.cpp
+	"algorithm.h"
+	"kalman.h"
+	"vector.h"
+
+1362138982 c:\users\Ò»Üø\desktop\mimu pc\vector.h
+	<memory.h>
+	<stdio.h>
+
+1368967528 source:c:\users\Ò»Üø\desktop\mimu pc\main.cpp
+	"stdafx.h"
+	"GL.h"
+	"DataConvernt.h"
+	"SetCursorTest.h"
+	"COM.h"
+	"rs232.h"
+
+1364099590 c:\users\Ò»Üø\desktop\mimu pc\gl.h
+
+1368800784 source:c:\users\Ò»Üø\desktop\mimu pc\rs232.c
+	"rs232.h"
+
+1369140541 source:c:\users\Ò»Üø\desktop\mimu pc\setcursortest.cpp
+	"stdafx.h"
+	"SetCursorTest.h"
+	"time.h"
+	"draw.h"
+	<stdlib.h>
+
+1368708400 source:c:\users\Ò»Üø\desktop\mimu pc\mimu pc\algorithm.cpp
+	"stdafx.h"
+	<iostream>
+	"algorithm.h"
+	"DataConvernt.h"
+	"glm/glm.hpp"
+	"glm/gtc/type_ptr.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtx/quaternion.hpp"
+
+1369419333 c:\users\Ò»Üø\desktop\mimu pc\mimu pc\stdafx.h
+	<GL/glew.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<windows.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<algorithm>
+	<glm/glm.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtx/quaternion.hpp>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<time.h>
+	"algorithm.h"
+	<math.h>
+	<stdlib.h>
+	<conio.h>
+	<Gdiplus.h>
+	<tchar.h>
+
+1369293104 c:\users\Ò»Üø\desktop\mimu pc\mimu pc\algorithm.h
+	"glm/glm.hpp"
+	<iostream>
+	"glm/gtc/type_ptr.hpp"
+	"glm/gtc/matrix_transform.hpp"
+	"glm/gtx/quaternion.hpp"
+
+1369416362 c:\users\Ò»Üø\desktop\mimu pc\mimu pc\dataconvernt.h
+	"algorithm.h"
+
+1364096784 source:c:\users\Ò»Üø\desktop\mimu pc\mimu pc\camera.cpp
+	"camera.h"
+
+1364107802 c:\users\Ò»Üø\desktop\mimu pc\mimu pc\camera.h
+	<cstdio>
+	<gl/glu.h>
+	<glm/glm.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<GL/freeglut.h>
+
+1369448637 source:c:\users\Ò»Üø\desktop\mimu pc\mimu pc\com.cpp
+	"stdafx.h"
+
+1369436069 source:c:\users\Ò»Üø\desktop\mimu pc\mimu pc\dataconvernt.cpp
+	"stdafx.h"
+	"DataConvernt.h"
+	"kalman.h"
+	"SetCursorTest.h"
+	"COM.h"
+	"rs232.h"
+
+1367319668 c:\users\Ò»Üø\desktop\mimu pc\mimu pc\kalman.h
+
+1368945772 c:\users\Ò»Üø\desktop\mimu pc\mimu pc\setcursortest.h
+	"DataConvernt.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+
+1369415778 c:\users\Ò»Üø\desktop\mimu pc\mimu pc\com.h
+
+1369415775 c:\users\Ò»Üø\desktop\mimu pc\mimu pc\rs232.h
+	<stdio.h>
+	<string.h>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+	<windows.h>
+
+1369530899 source:c:\users\Ò»Üø\desktop\mimu pc\mimu pc\draw.cpp
+	"draw.h"
+
+1369379682 c:\users\Ò»Üø\desktop\mimu pc\mimu pc\draw.h
+	"stdafx.h"
+
+1368539436 source:c:\users\Ò»Üø\desktop\mimu pc\mimu pc\gl.cpp
+	"stdafx.h"
+	"camera.h"
+	"DataConvernt.h"
+	<vector>
+
+1369293054 source:c:\users\Ò»Üø\desktop\mimu pc\mimu pc\kalman.cpp
+	"algorithm.h"
+	"kalman.h"
+	"vector.h"
+
+1362138982 c:\users\Ò»Üø\desktop\mimu pc\mimu pc\vector.h
+	<memory.h>
+	<stdio.h>
+
+1369435947 source:c:\users\Ò»Üø\desktop\mimu pc\mimu pc\main.cpp
+	"stdafx.h"
+	<QtGui>
+	"MIMUGUI.h"
+	"GL.h"
+	"DataConvernt.h"
+	"SetCursorTest.h"
+	"COM.h"
+	"rs232.h"
+	<Gdiplus.h>
+	"AppAPITest.h"
+	"VirTouchAppAPI.h"
+	"draw.h"
+
+1364099590 c:\users\Ò»Üø\desktop\mimu pc\mimu pc\gl.h
+
+1369415806 source:c:\users\Ò»Üø\desktop\mimu pc\mimu pc\rs232.c
+	"rs232.h"
+
+1369460177 source:c:\users\Ò»Üø\desktop\mimu pc\mimu pc\setcursortest.cpp
+	"stdafx.h"
+	"SetCursorTest.h"
+	"time.h"
+	"draw.h"
+	<stdlib.h>
+
+1369381040 source:c:\users\Ò»Üø\desktop\mimu pc\mimu pc\appapitest.cpp
+	"stdafx.h"
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"VirTouchAppAPI.h"
+	"AppAPITest.h"
+
+1369239876 c:\users\Ò»Üø\desktop\mimu pc\mimu pc\virtouchappapi.h
+	<Windows.h>
+
+1369292699 c:\users\Ò»Üø\desktop\mimu pc\mimu pc\appapitest.h
+	"algorithm.h"
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtgui
+	<QtCore/QtCore>
+	"qabstractpagesetupdialog.h"
+	"qabstractprintdialog.h"
+	"qcolordialog.h"
+	"qdialog.h"
+	"qerrormessage.h"
+	"qfiledialog.h"
+	"qfilesystemmodel.h"
+	"qfontdialog.h"
+	"qinputdialog.h"
+	"qmessagebox.h"
+	"qpagesetupdialog.h"
+	"qprintdialog.h"
+	"qprintpreviewdialog.h"
+	"qprogressdialog.h"
+	"qwizard.h"
+	"qvfbhdr.h"
+	"qwsembedwidget.h"
+	"qgraphicsanchorlayout.h"
+	"qgraphicsgridlayout.h"
+	"qgraphicsitem.h"
+	"qgraphicsitemanimation.h"
+	"qgraphicslayout.h"
+	"qgraphicslayoutitem.h"
+	"qgraphicslinearlayout.h"
+	"qgraphicsproxywidget.h"
+	"qgraphicsscene.h"
+	"qgraphicssceneevent.h"
+	"qgraphicstransform.h"
+	"qgraphicsview.h"
+	"qgraphicswidget.h"
+	"qaction.h"
+	"qactiongroup.h"
+	"qapplication.h"
+	"qboxlayout.h"
+	"qclipboard.h"
+	"qcursor.h"
+	"qdesktopwidget.h"
+	"qdrag.h"
+	"qevent.h"
+	"qformlayout.h"
+	"qgesture.h"
+	"qgesturerecognizer.h"
+	"qgridlayout.h"
+	"qkeysequence.h"
+	"qlayout.h"
+	"qlayoutitem.h"
+	"qmime.h"
+	"qpalette.h"
+	"qsessionmanager.h"
+	"qshortcut.h"
+	"qsizepolicy.h"
+	"qsound.h"
+	"qstackedlayout.h"
+	"qtooltip.h"
+	"qwhatsthis.h"
+	"qwidget.h"
+	"qwidgetaction.h"
+	"qwindowdefs.h"
+	"qgraphicseffect.h"
+	"qs60mainapplication.h"
+	"qs60mainappui.h"
+	"qs60maindocument.h"
+	"qgenericmatrix.h"
+	"qmatrix4x4.h"
+	"qquaternion.h"
+	"qvector2d.h"
+	"qvector3d.h"
+	"qvector4d.h"
+	"qbitmap.h"
+	"qicon.h"
+	"qiconengine.h"
+	"qiconengineplugin.h"
+	"qimage.h"
+	"qimageiohandler.h"
+	"qimagereader.h"
+	"qimagewriter.h"
+	"qmovie.h"
+	"qpicture.h"
+	"qpictureformatplugin.h"
+	"qpixmap.h"
+	"qpixmapcache.h"
+	"qsymbianevent.h"
+	"qabstracttextdocumentlayout.h"
+	"qfont.h"
+	"qfontdatabase.h"
+	"qfontinfo.h"
+	"qfontmetrics.h"
+	"qstatictext.h"
+	"qsyntaxhighlighter.h"
+	"qtextcursor.h"
+	"qtextdocument.h"
+	"qtextdocumentfragment.h"
+	"qtextdocumentwriter.h"
+	"qtextformat.h"
+	"qtextlayout.h"
+	"qtextlist.h"
+	"qtextobject.h"
+	"qtextoption.h"
+	"qtexttable.h"
+	"qabstractitemdelegate.h"
+	"qabstractitemview.h"
+	"qabstractproxymodel.h"
+	"qcolumnview.h"
+	"qdatawidgetmapper.h"
+	"qdirmodel.h"
+	"qfileiconprovider.h"
+	"qheaderview.h"
+	"qitemdelegate.h"
+	"qitemeditorfactory.h"
+	"qitemselectionmodel.h"
+	"qlistview.h"
+	"qlistwidget.h"
+	"qproxymodel.h"
+	"qsortfilterproxymodel.h"
+	"qstandarditemmodel.h"
+	"qstringlistmodel.h"
+	"qstyleditemdelegate.h"
+	"qtableview.h"
+	"qtablewidget.h"
+	"qtreeview.h"
+	"qtreewidget.h"
+	"qtreewidgetitemiterator.h"
+	"qabstractbutton.h"
+	"qabstractscrollarea.h"
+	"qabstractslider.h"
+	"qabstractspinbox.h"
+	"qbuttongroup.h"
+	"qcalendarwidget.h"
+	"qcheckbox.h"
+	"qcombobox.h"
+	"qcommandlinkbutton.h"
+	"qdatetimeedit.h"
+	"qdial.h"
+	"qdialogbuttonbox.h"
+	"qdockwidget.h"
+	"qfocusframe.h"
+	"qfontcombobox.h"
+	"qframe.h"
+	"qgroupbox.h"
+	"qlabel.h"
+	"qlcdnumber.h"
+	"qlineedit.h"
+	"qmainwindow.h"
+	"qmdiarea.h"
+	"qmdisubwindow.h"
+	"qmenu.h"
+	"qmenubar.h"
+	"qmenudata.h"
+	"qplaintextedit.h"
+	"qprintpreviewwidget.h"
+	"qprogressbar.h"
+	"qpushbutton.h"
+	"qradiobutton.h"
+	"qrubberband.h"
+	"qscrollarea.h"
+	"qscrollbar.h"
+	"qsizegrip.h"
+	"qslider.h"
+	"qspinbox.h"
+	"qsplashscreen.h"
+	"qsplitter.h"
+	"qstackedwidget.h"
+	"qstatusbar.h"
+	"qtabbar.h"
+	"qtabwidget.h"
+	"qtextbrowser.h"
+	"qtextedit.h"
+	"qtoolbar.h"
+	"qtoolbox.h"
+	"qtoolbutton.h"
+	"qvalidator.h"
+	"qworkspace.h"
+	"qkeyeventtransition.h"
+	"qmouseeventtransition.h"
+	"qcompleter.h"
+	"qdesktopservices.h"
+	"qsystemtrayicon.h"
+	"qundogroup.h"
+	"qundostack.h"
+	"qundoview.h"
+	"qaccessible.h"
+	"qaccessible2.h"
+	"qaccessiblebridge.h"
+	"qaccessibleobject.h"
+	"qaccessibleplugin.h"
+	"qaccessiblewidget.h"
+	"qcdestyle.h"
+	"qcleanlooksstyle.h"
+	"qcommonstyle.h"
+	"qgtkstyle.h"
+	"qmotifstyle.h"
+	"qplastiquestyle.h"
+	"qproxystyle.h"
+	"qs60style.h"
+	"qstyle.h"
+	"qstylefactory.h"
+	"qstyleoption.h"
+	"qstyleplugin.h"
+	"qwindowscestyle.h"
+	"qwindowsmobilestyle.h"
+	"qwindowsstyle.h"
+	"qwindowsvistastyle.h"
+	"qwindowsxpstyle.h"
+	"qinputcontext.h"
+	"qinputcontextfactory.h"
+	"qinputcontextplugin.h"
+	"qbrush.h"
+	"qcolor.h"
+	"qcolormap.h"
+	"qdrawutil.h"
+	"qmatrix.h"
+	"qpaintdevice.h"
+	"qpaintengine.h"
+	"qpainter.h"
+	"qpainterpath.h"
+	"qpen.h"
+	"qpolygon.h"
+	"qprintengine.h"
+	"qprinter.h"
+	"qprinterinfo.h"
+	"qregion.h"
+	"qrgb.h"
+	"qstylepainter.h"
+	"qtransform.h"
+	"qwmatrix.h"
+
+1301462148 d:\qt\4.7.3\include\qtcore\qtcore
+	"qabstractanimation.h"
+	"qanimationgroup.h"
+	"qparallelanimationgroup.h"
+	"qpauseanimation.h"
+	"qpropertyanimation.h"
+	"qsequentialanimationgroup.h"
+	"qvariantanimation.h"
+	"qabstracteventdispatcher.h"
+	"qabstractitemmodel.h"
+	"qbasictimer.h"
+	"qcoreapplication.h"
+	"qcoreevent.h"
+	"qeventloop.h"
+	"qmath.h"
+	"qmetaobject.h"
+	"qmetatype.h"
+	"qmimedata.h"
+	"qobject.h"
+	"qobjectcleanuphandler.h"
+	"qobjectdefs.h"
+	"qpointer.h"
+	"qsharedmemory.h"
+	"qsignalmapper.h"
+	"qsocketnotifier.h"
+	"qsystemsemaphore.h"
+	"qtimer.h"
+	"qtranslator.h"
+	"qvariant.h"
+	"qendian.h"
+	"qfeatures.h"
+	"qglobal.h"
+	"qlibraryinfo.h"
+	"qnamespace.h"
+	"qnumeric.h"
+	"qatomic.h"
+	"qbasicatomic.h"
+	"qmutex.h"
+	"qreadwritelock.h"
+	"qsemaphore.h"
+	"qthread.h"
+	"qthreadstorage.h"
+	"qwaitcondition.h"
+	"qfactoryinterface.h"
+	"qlibrary.h"
+	"qplugin.h"
+	"qpluginloader.h"
+	"quuid.h"
+	"qalgorithms.h"
+	"qbitarray.h"
+	"qbytearray.h"
+	"qbytearraymatcher.h"
+	"qcache.h"
+	"qchar.h"
+	"qcontainerfwd.h"
+	"qcontiguouscache.h"
+	"qcryptographichash.h"
+	"qdatetime.h"
+	"qeasingcurve.h"
+	"qelapsedtimer.h"
+	"qhash.h"
+	"qiterator.h"
+	"qline.h"
+	"qlinkedlist.h"
+	"qlist.h"
+	"qlocale.h"
+	"qmap.h"
+	"qmargins.h"
+	"qpair.h"
+	"qpoint.h"
+	"qqueue.h"
+	"qrect.h"
+	"qregexp.h"
+	"qscopedpointer.h"
+	"qset.h"
+	"qshareddata.h"
+	"qsharedpointer.h"
+	"qsize.h"
+	"qstack.h"
+	"qstring.h"
+	"qstringbuilder.h"
+	"qstringlist.h"
+	"qstringmatcher.h"
+	"qtextboundaryfinder.h"
+	"qtimeline.h"
+	"qvarlengtharray.h"
+	"qvector.h"
+	"qxmlstream.h"
+	"qabstractstate.h"
+	"qabstracttransition.h"
+	"qeventtransition.h"
+	"qfinalstate.h"
+	"qhistorystate.h"
+	"qsignaltransition.h"
+	"qstate.h"
+	"qstatemachine.h"
+	"qtextcodec.h"
+	"qtextcodecplugin.h"
+	"qabstractfileengine.h"
+	"qbuffer.h"
+	"qdatastream.h"
+	"qdebug.h"
+	"qdir.h"
+	"qdiriterator.h"
+	"qfile.h"
+	"qfileinfo.h"
+	"qfilesystemwatcher.h"
+	"qfsfileengine.h"
+	"qiodevice.h"
+	"qprocess.h"
+	"qresource.h"
+	"qsettings.h"
+	"qtemporaryfile.h"
+	"qtextstream.h"
+	"qurl.h"
+	"qfuture.h"
+	"qfutureinterface.h"
+	"qfuturesynchronizer.h"
+	"qfuturewatcher.h"
+	"qrunnable.h"
+	"qtconcurrentcompilertest.h"
+	"qtconcurrentexception.h"
+	"qtconcurrentfilter.h"
+	"qtconcurrentfilterkernel.h"
+	"qtconcurrentfunctionwrappers.h"
+	"qtconcurrentiteratekernel.h"
+	"qtconcurrentmap.h"
+	"qtconcurrentmapkernel.h"
+	"qtconcurrentmedian.h"
+	"qtconcurrentreducekernel.h"
+	"qtconcurrentresultstore.h"
+	"qtconcurrentrun.h"
+	"qtconcurrentrunbase.h"
+	"qtconcurrentstoredfunctioncall.h"
+	"qtconcurrentthreadengine.h"
+	"qthreadpool.h"
+
+1301462150 d:\qt\4.7.3\include\qtcore\qabstractanimation.h
+	"../../src/corelib/animation/qabstractanimation.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\animation\qabstractanimation.h
+	<QtCore/qobject.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qobject.h
+	"../../src/corelib/kernel/qobject.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qobject.h
+	<QtCore/qobjectdefs.h>
+	<QtCore/qstring.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qlist.h>
+	<QtCore/qcoreevent.h>
+	<QtCore/qscopedpointer.h>
+
+1301462152 d:\qt\4.7.3\include\qtcore\qobjectdefs.h
+	"../../src/corelib/kernel/qobjectdefs.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qobjectdefs.h
+	<QtCore/qnamespace.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qnamespace.h
+	"../../src/corelib/global/qnamespace.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\global\qnamespace.h
+	<QtCore/qglobal.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qglobal.h
+	"../../src/corelib/global/qglobal.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\global\qglobal.h
+	<stddef.h>
+	<QtCore/qconfig.h>
+	<AvailabilityMacros.h>
+	<e32def.h>
+	<QtCore/qfeatures.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qconfig.h
+	"../../src/corelib/global/qconfig.h"
+
+1363679206 d:\qt\4.7.3\src\corelib\global\qconfig.h
+
+1301462154 d:\qt\4.7.3\include\qtcore\qfeatures.h
+	"../../src/corelib/global/qfeatures.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\global\qfeatures.h
+
+1301462146 d:\qt\4.7.3\include\qtcore\qstring.h
+	"../../src/corelib/tools/qstring.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qstring.h
+	<QtCore/qchar.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qatomic.h>
+	<QtCore/qnamespace.h>
+	<Qt3Support/q3cstring.h>
+	<string>
+	<string>
+	<stdarg.h>
+	<QtCore/qstringbuilder.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qchar.h
+	"../../src/corelib/tools/qchar.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qchar.h
+	<QtCore/qglobal.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qbytearray.h
+	"../../src/corelib/tools/qbytearray.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qbytearray.h
+	<QtCore/qatomic.h>
+	<QtCore/qnamespace.h>
+	<string.h>
+	<stdarg.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qatomic.h
+	"../../src/corelib/thread/qatomic.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\thread\qatomic.h
+	<QtCore/qglobal.h>
+	<QtCore/qbasicatomic.h>
+
+1301462152 d:\qt\4.7.3\include\qtcore\qbasicatomic.h
+	"../../src/corelib/thread/qbasicatomic.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\thread\qbasicatomic.h
+	<QtCore/qglobal.h>
+	<QtCore/qatomic_bootstrap.h>
+	<QtCore/qatomic_arch.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qatomic_bootstrap.h
+	"../../src/corelib/arch/qatomic_bootstrap.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_bootstrap.h
+
+1301462152 d:\qt\4.7.3\include\qtcore\qatomic_arch.h
+	"../../src/corelib/arch/qatomic_arch.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_arch.h
+	"QtCore/qglobal.h"
+	"QtCore/qatomic_vxworks.h"
+	"QtCore/qatomic_alpha.h"
+	"QtCore/qatomic_arm.h"
+	"QtCore/qatomic_armv6.h"
+	"QtCore/qatomic_avr32.h"
+	"QtCore/qatomic_bfin.h"
+	"QtCore/qatomic_generic.h"
+	"QtCore/qatomic_i386.h"
+	"QtCore/qatomic_ia64.h"
+	"QtCore/qatomic_macosx.h"
+	"QtCore/qatomic_mips.h"
+	"QtCore/qatomic_parisc.h"
+	"QtCore/qatomic_powerpc.h"
+	"QtCore/qatomic_s390.h"
+	"QtCore/qatomic_sparc.h"
+	"QtCore/qatomic_windows.h"
+	"QtCore/qatomic_windowsce.h"
+	"QtCore/qatomic_x86_64.h"
+	"QtCore/qatomic_symbian.h"
+	"QtCore/qatomic_sh.h"
+	"QtCore/qatomic_sh4a.h"
+
+1301462150 d:\qt\4.7.3\include\qtcore\qatomic_vxworks.h
+	"../../src/corelib/arch/qatomic_vxworks.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_vxworks.h
+	<QtCore/qatomic_powerpc.h>
+	<vxWorksCommon.h>
+	<taskLib.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qatomic_powerpc.h
+	"../../src/corelib/arch/qatomic_powerpc.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_powerpc.h
+
+1301462150 d:\qt\4.7.3\include\qtcore\qatomic_alpha.h
+	"../../src/corelib/arch/qatomic_alpha.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_alpha.h
+
+1301462150 d:\qt\4.7.3\include\qtcore\qatomic_arm.h
+	"../../src/corelib/arch/qatomic_arm.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_arm.h
+
+1301462148 d:\qt\4.7.3\include\qtcore\qatomic_armv6.h
+	"../../src/corelib/arch/qatomic_armv6.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_armv6.h
+
+1301462150 d:\qt\4.7.3\include\qtcore\qatomic_avr32.h
+	"../../src/corelib/arch/qatomic_avr32.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_avr32.h
+
+1301462146 d:\qt\4.7.3\include\qtcore\qatomic_bfin.h
+	"../../src/corelib/arch/qatomic_bfin.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_bfin.h
+	<asm/fixed_code.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qatomic_generic.h
+	"../../src/corelib/arch/qatomic_generic.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_generic.h
+
+1301462154 d:\qt\4.7.3\include\qtcore\qatomic_i386.h
+	"../../src/corelib/arch/qatomic_i386.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_i386.h
+
+1301462146 d:\qt\4.7.3\include\qtcore\qatomic_ia64.h
+	"../../src/corelib/arch/qatomic_ia64.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_ia64.h
+	<ia64intrin.h>
+	<ia64/sys/inline.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qatomic_macosx.h
+	"../../src/corelib/arch/qatomic_macosx.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_macosx.h
+	<QtCore/qatomic_x86_64.h>
+	<QtCore/qatomic_i386.h>
+	<QtCore/qatomic_powerpc.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qatomic_x86_64.h
+	"../../src/corelib/arch/qatomic_x86_64.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_x86_64.h
+
+1301462148 d:\qt\4.7.3\include\qtcore\qatomic_mips.h
+	"../../src/corelib/arch/qatomic_mips.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_mips.h
+
+1301462150 d:\qt\4.7.3\include\qtcore\qatomic_parisc.h
+	"../../src/corelib/arch/qatomic_parisc.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_parisc.h
+
+1301462154 d:\qt\4.7.3\include\qtcore\qatomic_s390.h
+	"../../src/corelib/arch/qatomic_s390.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_s390.h
+
+1301462152 d:\qt\4.7.3\include\qtcore\qatomic_sparc.h
+	"../../src/corelib/arch/qatomic_sparc.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_sparc.h
+
+1301462150 d:\qt\4.7.3\include\qtcore\qatomic_windows.h
+	"../../src/corelib/arch/qatomic_windows.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_windows.h
+	"QtCore/qatomic_i386.h"
+	"QtCore/qatomic_x86_64.h"
+	<winbase.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qatomic_windowsce.h
+	"../../src/corelib/arch/qatomic_windowsce.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_windowsce.h
+	<QtCore/qglobal.h>
+	"QtCore/qatomic_windows.h"
+
+1301462154 d:\qt\4.7.3\include\qtcore\qatomic_symbian.h
+	"../../src/corelib/arch/qatomic_symbian.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_symbian.h
+	<QtCore/qglobal.h>
+	<e32std.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qatomic_sh.h
+	"../../src/corelib/arch/qatomic_sh.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_sh.h
+
+1301462146 d:\qt\4.7.3\include\qtcore\qatomic_sh4a.h
+	"../../src/corelib/arch/qatomic_sh4a.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\arch\qatomic_sh4a.h
+
+1301462144 d:\qt\4.7.3\include\qt3support\q3cstring.h
+	"../../src/qt3support/tools/q3cstring.h"
+
+1301462348 d:\qt\4.7.3\src\qt3support\tools\q3cstring.h
+	<QtCore/qbytearray.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qstringbuilder.h
+	"../../src/corelib/tools/qstringbuilder.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qstringbuilder.h
+	<QtCore/qstring.h>
+	<QtCore/qmap.h>
+	<string.h>
+
+1301462152 d:\qt\4.7.3\include\qtcore\qmap.h
+	"../../src/corelib/tools/qmap.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qmap.h
+	<QtCore/qatomic.h>
+	<QtCore/qiterator.h>
+	<QtCore/qlist.h>
+	<map>
+	<new>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qiterator.h
+	"../../src/corelib/tools/qiterator.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qiterator.h
+	<QtCore/qglobal.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qlist.h
+	"../../src/corelib/tools/qlist.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qlist.h
+	<QtCore/qiterator.h>
+	<QtCore/qatomic.h>
+	<QtCore/qalgorithms.h>
+	<iterator>
+	<list>
+	<new>
+	<limits.h>
+	<string.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qalgorithms.h
+	"../../src/corelib/tools/qalgorithms.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qalgorithms.h
+	<QtCore/qglobal.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qcoreevent.h
+	"../../src/corelib/kernel/qcoreevent.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qcoreevent.h
+	<QtCore/qnamespace.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qobjectdefs.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qscopedpointer.h
+	"../../src/corelib/tools/qscopedpointer.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qscopedpointer.h
+	<QtCore/qglobal.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qanimationgroup.h
+	"../../src/corelib/animation/qanimationgroup.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\animation\qanimationgroup.h
+	<QtCore/qabstractanimation.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qparallelanimationgroup.h
+	"../../src/corelib/animation/qparallelanimationgroup.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\animation\qparallelanimationgroup.h
+	<QtCore/qanimationgroup.h>
+
+1301462152 d:\qt\4.7.3\include\qtcore\qpauseanimation.h
+	"../../src/corelib/animation/qpauseanimation.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\animation\qpauseanimation.h
+	<QtCore/qanimationgroup.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qpropertyanimation.h
+	"../../src/corelib/animation/qpropertyanimation.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\animation\qpropertyanimation.h
+	<QtCore/qvariantanimation.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qvariantanimation.h
+	"../../src/corelib/animation/qvariantanimation.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\animation\qvariantanimation.h
+	<QtCore/qeasingcurve.h>
+	<QtCore/qabstractanimation.h>
+	<QtCore/qvector.h>
+	<QtCore/qvariant.h>
+	<QtCore/qpair.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qeasingcurve.h
+	"../../src/corelib/tools/qeasingcurve.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qeasingcurve.h
+	<QtCore/qglobal.h>
+	<QtCore/qobjectdefs.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qvector.h
+	"../../src/corelib/tools/qvector.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qvector.h
+	<QtCore/qiterator.h>
+	<QtCore/qatomic.h>
+	<QtCore/qalgorithms.h>
+	<QtCore/qlist.h>
+	<iterator>
+	<vector>
+	<stdlib.h>
+	<string.h>
+	<QtCore/QPointF>
+	<QtCore/QPoint>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qpointf
+	"qpoint.h"
+
+1301462154 d:\qt\4.7.3\include\qtcore\qpoint.h
+	"../../src/corelib/tools/qpoint.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qpoint.h
+	<QtCore/qnamespace.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qpoint
+	"qpoint.h"
+
+1301462152 d:\qt\4.7.3\include\qtcore\qvariant.h
+	"../../src/corelib/kernel/qvariant.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qvariant.h
+	<QtCore/qatomic.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qlist.h>
+	<QtCore/qmetatype.h>
+	<QtCore/qmap.h>
+	<QtCore/qhash.h>
+	<QtCore/qstring.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qmetatype.h
+	"../../src/corelib/kernel/qmetatype.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qmetatype.h
+	<QtCore/qglobal.h>
+	<QtCore/qatomic.h>
+	<QtCore/qdatastream.h>
+
+1301462148 d:\qt\4.7.3\include\qtcore\qdatastream.h
+	"../../src/corelib/io/qdatastream.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\io\qdatastream.h
+	<QtCore/qscopedpointer.h>
+	<QtCore/qiodevice.h>
+	<QtCore/qglobal.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qiodevice.h
+	"../../src/corelib/io/qiodevice.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\io\qiodevice.h
+	<QtCore/qobject.h>
+	<QtCore/qobjectdefs.h>
+	<QtCore/qscopedpointer.h>
+	<QtCore/qstring.h>
+
+1301462152 d:\qt\4.7.3\include\qtcore\qhash.h
+	"../../src/corelib/tools/qhash.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qhash.h
+	<QtCore/qatomic.h>
+	<QtCore/qchar.h>
+	<QtCore/qiterator.h>
+	<QtCore/qlist.h>
+	<QtCore/qpair.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qpair.h
+	"../../src/corelib/tools/qpair.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qpair.h
+	<QtCore/qdatastream.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qsequentialanimationgroup.h
+	"../../src/corelib/animation/qsequentialanimationgroup.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\animation\qsequentialanimationgroup.h
+	<QtCore/qanimationgroup.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qabstracteventdispatcher.h
+	"../../src/corelib/kernel/qabstracteventdispatcher.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qabstracteventdispatcher.h
+	<QtCore/qobject.h>
+	<QtCore/qeventloop.h>
+
+1301462148 d:\qt\4.7.3\include\qtcore\qeventloop.h
+	"../../src/corelib/kernel/qeventloop.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qeventloop.h
+	<QtCore/qobject.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qabstractitemmodel.h
+	"../../src/corelib/kernel/qabstractitemmodel.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qabstractitemmodel.h
+	<QtCore/qvariant.h>
+	<QtCore/qobject.h>
+	<QtCore/qhash.h>
+
+1301462148 d:\qt\4.7.3\include\qtcore\qbasictimer.h
+	"../../src/corelib/kernel/qbasictimer.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qbasictimer.h
+	<QtCore/qglobal.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qcoreapplication.h
+	"../../src/corelib/kernel/qcoreapplication.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qcoreapplication.h
+	<QtCore/qobject.h>
+	<QtCore/qcoreevent.h>
+	<QtCore/qeventloop.h>
+	<QtCore/qstringlist.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qstringlist.h
+	"../../src/corelib/tools/qstringlist.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qstringlist.h
+	<QtCore/qalgorithms.h>
+	<QtCore/qdatastream.h>
+	<QtCore/qlist.h>
+	<QtCore/qregexp.h>
+	<QtCore/qstring.h>
+	<QtCore/qstringmatcher.h>
+	<Qt3Support/q3valuelist.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qregexp.h
+	"../../src/corelib/tools/qregexp.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qregexp.h
+	<QtCore/qstring.h>
+	<new>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qstringmatcher.h
+	"../../src/corelib/tools/qstringmatcher.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qstringmatcher.h
+	<QtCore/qstring.h>
+
+1301462144 d:\qt\4.7.3\include\qt3support\q3valuelist.h
+	"../../src/qt3support/tools/q3valuelist.h"
+
+1301462348 d:\qt\4.7.3\src\qt3support\tools\q3valuelist.h
+	<QtCore/qalgorithms.h>
+	<QtCore/qdatastream.h>
+	<QtCore/qlinkedlist.h>
+	<QtCore/qlist.h>
+	<iterator>
+	<list>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qlinkedlist.h
+	"../../src/corelib/tools/qlinkedlist.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qlinkedlist.h
+	<QtCore/qiterator.h>
+	<QtCore/qatomic.h>
+	<iterator>
+	<list>
+
+1301462152 d:\qt\4.7.3\include\qtcore\qmath.h
+	"../../src/corelib/kernel/qmath.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qmath.h
+	<math.h>
+	<QtCore/qglobal.h>
+	<e32math.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qmetaobject.h
+	"../../src/corelib/kernel/qmetaobject.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qmetaobject.h
+	<QtCore/qobjectdefs.h>
+	<QtCore/qvariant.h>
+
+1301462152 d:\qt\4.7.3\include\qtcore\qmimedata.h
+	"../../src/corelib/kernel/qmimedata.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qmimedata.h
+	<QtCore/qvariant.h>
+	<QtCore/qobject.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qobjectcleanuphandler.h
+	"../../src/corelib/kernel/qobjectcleanuphandler.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qobjectcleanuphandler.h
+	<QtCore/qobject.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qpointer.h
+	"../../src/corelib/kernel/qpointer.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qpointer.h
+	<QtCore/qobject.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qsharedmemory.h
+	"../../src/corelib/kernel/qsharedmemory.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qsharedmemory.h
+	<QtCore/qobject.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qsignalmapper.h
+	"../../src/corelib/kernel/qsignalmapper.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qsignalmapper.h
+	<QtCore/qobject.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qsocketnotifier.h
+	"../../src/corelib/kernel/qsocketnotifier.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qsocketnotifier.h
+	<QtCore/qobject.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qsystemsemaphore.h
+	"../../src/corelib/kernel/qsystemsemaphore.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qsystemsemaphore.h
+	<QtCore/qstring.h>
+	<QtCore/qscopedpointer.h>
+
+1301462152 d:\qt\4.7.3\include\qtcore\qtimer.h
+	"../../src/corelib/kernel/qtimer.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qtimer.h
+	<QtCore/qbasictimer.h>
+	<QtCore/qobject.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qtranslator.h
+	"../../src/corelib/kernel/qtranslator.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\kernel\qtranslator.h
+	<QtCore/qobject.h>
+	<QtCore/qbytearray.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qendian.h
+	"../../src/corelib/global/qendian.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\global\qendian.h
+	<QtCore/qglobal.h>
+	<stdlib.h>
+	<byteswap.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qlibraryinfo.h
+	"../../src/corelib/global/qlibraryinfo.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\global\qlibraryinfo.h
+	<QtCore/qstring.h>
+	<QtCore/QDate>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qdate
+	"qdatetime.h"
+
+1301462150 d:\qt\4.7.3\include\qtcore\qdatetime.h
+	"../../src/corelib/tools/qdatetime.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qdatetime.h
+	<QtCore/qstring.h>
+	<QtCore/qnamespace.h>
+	<QtCore/qsharedpointer.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qsharedpointer.h
+	"../../src/corelib/tools/qsharedpointer.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qsharedpointer.h
+	<QtCore/qglobal.h>
+	<QtCore/qatomic.h>
+	<QtCore/qshareddata.h>
+	<QtCore/qsharedpointer_impl.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qshareddata.h
+	"../../src/corelib/tools/qshareddata.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qshareddata.h
+	<QtCore/qglobal.h>
+	<QtCore/qatomic.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qsharedpointer_impl.h
+	"../../src/corelib/tools/qsharedpointer_impl.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qsharedpointer_impl.h
+	<new>
+	<QtCore/qatomic.h>
+	<QtCore/qobject.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qnumeric.h
+	"../../src/corelib/global/qnumeric.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\global\qnumeric.h
+	<QtCore/qglobal.h>
+
+1301462152 d:\qt\4.7.3\include\qtcore\qmutex.h
+	"../../src/corelib/thread/qmutex.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\thread\qmutex.h
+	<QtCore/qglobal.h>
+	<new>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qreadwritelock.h
+	"../../src/corelib/thread/qreadwritelock.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\thread\qreadwritelock.h
+	<QtCore/qglobal.h>
+	<limits.h>
+
+1301462152 d:\qt\4.7.3\include\qtcore\qsemaphore.h
+	"../../src/corelib/thread/qsemaphore.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\thread\qsemaphore.h
+	<QtCore/qglobal.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qthread.h
+	"../../src/corelib/thread/qthread.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\thread\qthread.h
+	<QtCore/qobject.h>
+	<limits.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qthreadstorage.h
+	"../../src/corelib/thread/qthreadstorage.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\thread\qthreadstorage.h
+	<QtCore/qglobal.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qwaitcondition.h
+	"../../src/corelib/thread/qwaitcondition.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\thread\qwaitcondition.h
+	<QtCore/qglobal.h>
+	<limits.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qfactoryinterface.h
+	"../../src/corelib/plugin/qfactoryinterface.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\plugin\qfactoryinterface.h
+	<QtCore/qobject.h>
+	<QtCore/qstringlist.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qlibrary.h
+	"../../src/corelib/plugin/qlibrary.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\plugin\qlibrary.h
+	<QtCore/qobject.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qplugin.h
+	"../../src/corelib/plugin/qplugin.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\plugin\qplugin.h
+	<QtCore/qobject.h>
+	<QtCore/qpointer.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qpluginloader.h
+	"../../src/corelib/plugin/qpluginloader.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\plugin\qpluginloader.h
+	<QtCore/qlibrary.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\quuid.h
+	"../../src/corelib/plugin/quuid.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\plugin\quuid.h
+	<QtCore/qstring.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qbitarray.h
+	"../../src/corelib/tools/qbitarray.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qbitarray.h
+	<QtCore/qbytearray.h>
+
+1301462148 d:\qt\4.7.3\include\qtcore\qbytearraymatcher.h
+	"../../src/corelib/tools/qbytearraymatcher.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qbytearraymatcher.h
+	<QtCore/qbytearray.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qcache.h
+	"../../src/corelib/tools/qcache.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qcache.h
+	<QtCore/qhash.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qcontainerfwd.h
+	"../../src/corelib/tools/qcontainerfwd.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qcontainerfwd.h
+	<QtCore/qglobal.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qcontiguouscache.h
+	"../../src/corelib/tools/qcontiguouscache.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qcontiguouscache.h
+	<QtCore/qatomic.h>
+	<limits.h>
+	<new>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qcryptographichash.h
+	"../../src/corelib/tools/qcryptographichash.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qcryptographichash.h
+	<QtCore/qbytearray.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qelapsedtimer.h
+	"../../src/corelib/tools/qelapsedtimer.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qelapsedtimer.h
+	<QtCore/qglobal.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qline.h
+	"../../src/corelib/tools/qline.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qline.h
+	<QtCore/qpoint.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qlocale.h
+	"../../src/corelib/tools/qlocale.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qlocale.h
+	<QtCore/qstring.h>
+	<QtCore/qobjectdefs.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qmargins.h
+	"../../src/corelib/tools/qmargins.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qmargins.h
+	<QtCore/qnamespace.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qqueue.h
+	"../../src/corelib/tools/qqueue.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qqueue.h
+	<QtCore/qlist.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qrect.h
+	"../../src/corelib/tools/qrect.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qrect.h
+	<QtCore/qsize.h>
+	<QtCore/qpoint.h>
+
+1301462152 d:\qt\4.7.3\include\qtcore\qsize.h
+	"../../src/corelib/tools/qsize.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qsize.h
+	<QtCore/qnamespace.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qset.h
+	"../../src/corelib/tools/qset.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qset.h
+	<QtCore/qhash.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qstack.h
+	"../../src/corelib/tools/qstack.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qstack.h
+	<QtCore/qvector.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qtextboundaryfinder.h
+	"../../src/corelib/tools/qtextboundaryfinder.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qtextboundaryfinder.h
+	<QtCore/qchar.h>
+	<QtCore/qstring.h>
+
+1301462148 d:\qt\4.7.3\include\qtcore\qtimeline.h
+	"../../src/corelib/tools/qtimeline.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qtimeline.h
+	<QtCore/qeasingcurve.h>
+	<QtCore/qobject.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qvarlengtharray.h
+	"../../src/corelib/tools/qvarlengtharray.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\tools\qvarlengtharray.h
+	<QtCore/qcontainerfwd.h>
+	<QtCore/qglobal.h>
+	<new>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qxmlstream.h
+	"../../src/corelib/xml/qxmlstream.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\xml\qxmlstream.h
+	<QtCore/qiodevice.h>
+	<QtCore/qstring.h>
+	<QtCore/qvector.h>
+	<QtCore/qscopedpointer.h>
+
+1301462152 d:\qt\4.7.3\include\qtcore\qabstractstate.h
+	"../../src/corelib/statemachine/qabstractstate.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\statemachine\qabstractstate.h
+	<QtCore/qobject.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qabstracttransition.h
+	"../../src/corelib/statemachine/qabstracttransition.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\statemachine\qabstracttransition.h
+	<QtCore/qobject.h>
+	<QtCore/qlist.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qeventtransition.h
+	"../../src/corelib/statemachine/qeventtransition.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\statemachine\qeventtransition.h
+	<QtCore/qabstracttransition.h>
+	<QtCore/qcoreevent.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qfinalstate.h
+	"../../src/corelib/statemachine/qfinalstate.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\statemachine\qfinalstate.h
+	<QtCore/qabstractstate.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qhistorystate.h
+	"../../src/corelib/statemachine/qhistorystate.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\statemachine\qhistorystate.h
+	<QtCore/qabstractstate.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qsignaltransition.h
+	"../../src/corelib/statemachine/qsignaltransition.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\statemachine\qsignaltransition.h
+	<QtCore/qabstracttransition.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qstate.h
+	"../../src/corelib/statemachine/qstate.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\statemachine\qstate.h
+	<QtCore/qabstractstate.h>
+	<QtCore/qlist.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qstatemachine.h
+	"../../src/corelib/statemachine/qstatemachine.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\statemachine\qstatemachine.h
+	<QtCore/qstate.h>
+	<QtCore/qcoreevent.h>
+	<QtCore/qlist.h>
+	<QtCore/qobject.h>
+	<QtCore/qset.h>
+	<QtCore/qvariant.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qtextcodec.h
+	"../../src/corelib/codecs/qtextcodec.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\codecs\qtextcodec.h
+	<QtCore/qstring.h>
+	<QtCore/qlist.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qtextcodecplugin.h
+	"../../src/corelib/codecs/qtextcodecplugin.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\codecs\qtextcodecplugin.h
+	<QtCore/qplugin.h>
+	<QtCore/qfactoryinterface.h>
+	<QtCore/qlist.h>
+	<QtCore/qbytearray.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qabstractfileengine.h
+	"../../src/corelib/io/qabstractfileengine.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\io\qabstractfileengine.h
+	<QtCore/qdir.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qdir.h
+	"../../src/corelib/io/qdir.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\io\qdir.h
+	<QtCore/qstring.h>
+	<QtCore/qfileinfo.h>
+	<QtCore/qstringlist.h>
+	<QtCore/qshareddata.h>
+
+1301462152 d:\qt\4.7.3\include\qtcore\qfileinfo.h
+	"../../src/corelib/io/qfileinfo.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\io\qfileinfo.h
+	<QtCore/qfile.h>
+	<QtCore/qlist.h>
+	<QtCore/qshareddata.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qfile.h
+	"../../src/corelib/io/qfile.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\io\qfile.h
+	<QtCore/qiodevice.h>
+	<QtCore/qstring.h>
+	<stdio.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qbuffer.h
+	"../../src/corelib/io/qbuffer.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\io\qbuffer.h
+	<QtCore/qiodevice.h>
+	<QtCore/qbytearray.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qdebug.h
+	"../../src/corelib/io/qdebug.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\io\qdebug.h
+	<QtCore/qalgorithms.h>
+	<QtCore/qhash.h>
+	<QtCore/qlist.h>
+	<QtCore/qmap.h>
+	<QtCore/qpair.h>
+	<QtCore/qtextstream.h>
+	<QtCore/qstring.h>
+	<QtCore/qvector.h>
+	<QtCore/qset.h>
+	<QtCore/qcontiguouscache.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qtextstream.h
+	"../../src/corelib/io/qtextstream.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\io\qtextstream.h
+	<QtCore/qiodevice.h>
+	<QtCore/qstring.h>
+	<QtCore/qchar.h>
+	<QtCore/qlocale.h>
+	<QtCore/qscopedpointer.h>
+	<QtCore/qtextcodec.h>
+	<stdio.h>
+
+1301462152 d:\qt\4.7.3\include\qtcore\qdiriterator.h
+	"../../src/corelib/io/qdiriterator.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\io\qdiriterator.h
+	<QtCore/qdir.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qfilesystemwatcher.h
+	"../../src/corelib/io/qfilesystemwatcher.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\io\qfilesystemwatcher.h
+	<QtCore/qobject.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qfsfileengine.h
+	"../../src/corelib/io/qfsfileengine.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\io\qfsfileengine.h
+	<QtCore/qabstractfileengine.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qprocess.h
+	"../../src/corelib/io/qprocess.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\io\qprocess.h
+	<QtCore/qiodevice.h>
+	<QtCore/qstringlist.h>
+	<QtCore/qshareddata.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qresource.h
+	"../../src/corelib/io/qresource.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\io\qresource.h
+	<QtCore/qstring.h>
+	<QtCore/qlocale.h>
+	<QtCore/qstringlist.h>
+	<QtCore/qlist.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qsettings.h
+	"../../src/corelib/io/qsettings.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\io\qsettings.h
+	<QtCore/qobject.h>
+	<QtCore/qvariant.h>
+	<QtCore/qstring.h>
+	<QtCore/qstringlist.h>
+	<ctype.h>
+
+1301462148 d:\qt\4.7.3\include\qtcore\qtemporaryfile.h
+	"../../src/corelib/io/qtemporaryfile.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\io\qtemporaryfile.h
+	<QtCore/qiodevice.h>
+	<QtCore/qfile.h>
+
+1301462152 d:\qt\4.7.3\include\qtcore\qurl.h
+	"../../src/corelib/io/qurl.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\io\qurl.h
+	<QtCore/qbytearray.h>
+	<QtCore/qobjectdefs.h>
+	<QtCore/qpair.h>
+	<QtCore/qstring.h>
+	<QtCore/qhash.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qfuture.h
+	"../../src/corelib/concurrent/qfuture.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qfuture.h
+	<QtCore/qglobal.h>
+	<QtCore/qfutureinterface.h>
+	<QtCore/qstring.h>
+	<QtCore/qtconcurrentcompilertest.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qfutureinterface.h
+	"../../src/corelib/concurrent/qfutureinterface.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qfutureinterface.h
+	<QtCore/qglobal.h>
+	<QtCore/qrunnable.h>
+	<QtCore/qmutex.h>
+	<QtCore/qtconcurrentexception.h>
+	<QtCore/qtconcurrentresultstore.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qrunnable.h
+	"../../src/corelib/concurrent/qrunnable.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qrunnable.h
+	<QtCore/qglobal.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qtconcurrentexception.h
+	"../../src/corelib/concurrent/qtconcurrentexception.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qtconcurrentexception.h
+	<QtCore/qglobal.h>
+	<QtCore/qatomic.h>
+	<exception>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qtconcurrentresultstore.h
+	"../../src/corelib/concurrent/qtconcurrentresultstore.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qtconcurrentresultstore.h
+	<QtCore/qglobal.h>
+	<QtCore/qmap.h>
+	<QtCore/qdebug.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qtconcurrentcompilertest.h
+	"../../src/corelib/concurrent/qtconcurrentcompilertest.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qtconcurrentcompilertest.h
+	<QtCore/qglobal.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qfuturesynchronizer.h
+	"../../src/corelib/concurrent/qfuturesynchronizer.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qfuturesynchronizer.h
+	<QtCore/qfuture.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qfuturewatcher.h
+	"../../src/corelib/concurrent/qfuturewatcher.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qfuturewatcher.h
+	<QtCore/qfuture.h>
+	<QtCore/qobject.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qtconcurrentfilter.h
+	"../../src/corelib/concurrent/qtconcurrentfilter.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qtconcurrentfilter.h
+	<QtCore/qglobal.h>
+	<QtCore/qtconcurrentfilterkernel.h>
+	<QtCore/qtconcurrentfunctionwrappers.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qtconcurrentfilterkernel.h
+	"../../src/corelib/concurrent/qtconcurrentfilterkernel.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qtconcurrentfilterkernel.h
+	<QtCore/qglobal.h>
+	<QtCore/qtconcurrentiteratekernel.h>
+	<QtCore/qtconcurrentmapkernel.h>
+	<QtCore/qtconcurrentreducekernel.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qtconcurrentiteratekernel.h
+	"../../src/corelib/concurrent/qtconcurrentiteratekernel.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qtconcurrentiteratekernel.h
+	<QtCore/qglobal.h>
+	<QtCore/qatomic.h>
+	<QtCore/qtconcurrentmedian.h>
+	<QtCore/qtconcurrentthreadengine.h>
+	<iterator>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qtconcurrentmedian.h
+	"../../src/corelib/concurrent/qtconcurrentmedian.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qtconcurrentmedian.h
+	<QtCore/qglobal.h>
+	<QtCore/qvector.h>
+	<QtCore/qalgorithms.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qtconcurrentthreadengine.h
+	"../../src/corelib/concurrent/qtconcurrentthreadengine.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qtconcurrentthreadengine.h
+	<QtCore/qglobal.h>
+	<QtCore/qthreadpool.h>
+	<QtCore/qfuture.h>
+	<QtCore/qdebug.h>
+	<QtCore/qtconcurrentexception.h>
+	<QtCore/qwaitcondition.h>
+	<QtCore/qatomic.h>
+	<QtCore/qsemaphore.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qthreadpool.h
+	"../../src/corelib/concurrent/qthreadpool.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qthreadpool.h
+	<QtCore/qglobal.h>
+	<QtCore/qthread.h>
+	<QtCore/qrunnable.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qtconcurrentmapkernel.h
+	"../../src/corelib/concurrent/qtconcurrentmapkernel.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qtconcurrentmapkernel.h
+	<QtCore/qglobal.h>
+	<QtCore/qtconcurrentiteratekernel.h>
+	<QtCore/qtconcurrentreducekernel.h>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qtconcurrentreducekernel.h
+	"../../src/corelib/concurrent/qtconcurrentreducekernel.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qtconcurrentreducekernel.h
+	<QtCore/qglobal.h>
+	<QtCore/qatomic.h>
+	<QtCore/qlist.h>
+	<QtCore/qmap.h>
+	<QtCore/qmutex.h>
+	<QtCore/qthread.h>
+	<QtCore/qthreadpool.h>
+	<QtCore/qvector.h>
+
+1301462154 d:\qt\4.7.3\include\qtcore\qtconcurrentfunctionwrappers.h
+	"../../src/corelib/concurrent/qtconcurrentfunctionwrappers.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qtconcurrentfunctionwrappers.h
+	<QtCore/qglobal.h>
+
+1301462148 d:\qt\4.7.3\include\qtcore\qtconcurrentmap.h
+	"../../src/corelib/concurrent/qtconcurrentmap.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qtconcurrentmap.h
+	<QtCore/qglobal.h>
+	<QtCore/qtconcurrentmapkernel.h>
+	<QtCore/qtconcurrentreducekernel.h>
+	<QtCore/qtconcurrentfunctionwrappers.h>
+	<QtCore/qstringlist.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qtconcurrentrun.h
+	"../../src/corelib/concurrent/qtconcurrentrun.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qtconcurrentrun.h
+	<QtCore/qglobal.h>
+	<QtCore/qtconcurrentrunbase.h>
+	<QtCore/qtconcurrentstoredfunctioncall.h>
+
+1301462150 d:\qt\4.7.3\include\qtcore\qtconcurrentrunbase.h
+	"../../src/corelib/concurrent/qtconcurrentrunbase.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qtconcurrentrunbase.h
+	<QtCore/qglobal.h>
+	<QtCore/qfuture.h>
+	<QtCore/qrunnable.h>
+	<QtCore/qthreadpool.h>
+
+1301462148 d:\qt\4.7.3\include\qtcore\qtconcurrentstoredfunctioncall.h
+	"../../src/corelib/concurrent/qtconcurrentstoredfunctioncall.h"
+
+1301462348 d:\qt\4.7.3\src\corelib\concurrent\qtconcurrentstoredfunctioncall.h
+	<QtCore/qglobal.h>
+	<QtCore/qtconcurrentrunbase.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qabstractpagesetupdialog.h
+	"../../src/gui/dialogs/qabstractpagesetupdialog.h"
+
+1301462344 d:\qt\4.7.3\src\gui\dialogs\qabstractpagesetupdialog.h
+	<QtGui/qdialog.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qdialog.h
+	"../../src/gui/dialogs/qdialog.h"
+
+1301462344 d:\qt\4.7.3\src\gui\dialogs\qdialog.h
+	<QtGui/qwidget.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qwidget.h
+	"../../src/gui/kernel/qwidget.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qwidget.h
+	<QtGui/qwindowdefs.h>
+	<QtCore/qobject.h>
+	<QtCore/qmargins.h>
+	<QtGui/qpaintdevice.h>
+	<QtGui/qpalette.h>
+	<QtGui/qfont.h>
+	<QtGui/qfontmetrics.h>
+	<QtGui/qfontinfo.h>
+	<QtGui/qsizepolicy.h>
+	<QtGui/qregion.h>
+	<QtGui/qbrush.h>
+	<QtGui/qcursor.h>
+	<QtGui/qkeysequence.h>
+	<QtGui/qevent.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qwindowdefs.h
+	"../../src/gui/kernel/qwindowdefs.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qwindowdefs.h
+	<QtCore/qobjectdefs.h>
+	<QtCore/qnamespace.h>
+	<QtGui/qmacdefines_mac.h>
+	<QtGui/qwindowdefs_win.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qmacdefines_mac.h
+	"../../src/gui/kernel/qmacdefines_mac.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qmacdefines_mac.h
+	<QtCore/qglobal.h>
+	<Cocoa/Cocoa.h>
+
+1301462176 d:\qt\4.7.3\include\qtgui\qwindowdefs_win.h
+	"../../src/gui/kernel/qwindowdefs_win.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qwindowdefs_win.h
+	<QtCore/qglobal.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qpaintdevice.h
+	"../../src/gui/painting/qpaintdevice.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qpaintdevice.h
+	<QtGui/qwindowdefs.h>
+	<QtCore/qrect.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qpalette.h
+	"../../src/gui/kernel/qpalette.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qpalette.h
+	<QtGui/qwindowdefs.h>
+	<QtGui/qcolor.h>
+	<QtGui/qbrush.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qcolor.h
+	"../../src/gui/painting/qcolor.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qcolor.h
+	<QtGui/qrgb.h>
+	<QtCore/qnamespace.h>
+	<QtCore/qstringlist.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qrgb.h
+	"../../src/gui/painting/qrgb.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qrgb.h
+	<QtCore/qglobal.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qbrush.h
+	"../../src/gui/painting/qbrush.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qbrush.h
+	<QtCore/qpair.h>
+	<QtCore/qpoint.h>
+	<QtCore/qvector.h>
+	<QtCore/qscopedpointer.h>
+	<QtGui/qcolor.h>
+	<QtGui/qmatrix.h>
+	<QtGui/qtransform.h>
+	<QtGui/qimage.h>
+	<QtGui/qpixmap.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qmatrix.h
+	"../../src/gui/painting/qmatrix.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qmatrix.h
+	<QtGui/qpolygon.h>
+	<QtGui/qregion.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qline.h>
+	<QtCore/qpoint.h>
+	<QtCore/qrect.h>
+	<QtGui/qwmatrix.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qpolygon.h
+	"../../src/gui/painting/qpolygon.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qpolygon.h
+	<QtCore/qvector.h>
+	<QtCore/qpoint.h>
+	<QtCore/qrect.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qregion.h
+	"../../src/gui/painting/qregion.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qregion.h
+	<QtCore/qatomic.h>
+	<QtCore/qrect.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qdatastream.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qwmatrix.h
+	"../../src/gui/painting/qwmatrix.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qwmatrix.h
+	<QtGui/qmatrix.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtransform.h
+	"../../src/gui/painting/qtransform.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qtransform.h
+	<QtGui/qmatrix.h>
+	<QtGui/qpainterpath.h>
+	<QtGui/qpolygon.h>
+	<QtGui/qregion.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qline.h>
+	<QtCore/qpoint.h>
+	<QtCore/qrect.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qpainterpath.h
+	"../../src/gui/painting/qpainterpath.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qpainterpath.h
+	<QtGui/qmatrix.h>
+	<QtCore/qglobal.h>
+	<QtCore/qrect.h>
+	<QtCore/qline.h>
+	<QtCore/qvector.h>
+	<QtCore/qscopedpointer.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qimage.h
+	"../../src/gui/image/qimage.h"
+
+1301462344 d:\qt\4.7.3\src\gui\image\qimage.h
+	<QtGui/qtransform.h>
+	<QtGui/qpaintdevice.h>
+	<QtGui/qrgb.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qrect.h>
+	<QtCore/qstring.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qpixmap.h
+	"../../src/gui/image/qpixmap.h"
+
+1301462344 d:\qt\4.7.3\src\gui\image\qpixmap.h
+	<QtGui/qpaintdevice.h>
+	<QtGui/qcolor.h>
+	<QtCore/qnamespace.h>
+	<QtCore/qstring.h>
+	<QtCore/qsharedpointer.h>
+	<QtGui/qimage.h>
+	<QtGui/qtransform.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qfont.h
+	"../../src/gui/text/qfont.h"
+
+1301462346 d:\qt\4.7.3\src\gui\text\qfont.h
+	<QtGui/qwindowdefs.h>
+	<QtCore/qstring.h>
+	<QtCore/qsharedpointer.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qfontmetrics.h
+	"../../src/gui/text/qfontmetrics.h"
+
+1301462346 d:\qt\4.7.3\src\gui\text\qfontmetrics.h
+	<QtGui/qfont.h>
+	<QtCore/qsharedpointer.h>
+	<QtCore/qrect.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qfontinfo.h
+	"../../src/gui/text/qfontinfo.h"
+
+1301462346 d:\qt\4.7.3\src\gui\text\qfontinfo.h
+	<QtGui/qfont.h>
+	<QtCore/qsharedpointer.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qsizepolicy.h
+	"../../src/gui/kernel/qsizepolicy.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qsizepolicy.h
+	<QtCore/qobject.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qcursor.h
+	"../../src/gui/kernel/qcursor.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qcursor.h
+	<QtCore/qpoint.h>
+	<QtGui/qwindowdefs.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qkeysequence.h
+	"../../src/gui/kernel/qkeysequence.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qkeysequence.h
+	<QtCore/qnamespace.h>
+	<QtCore/qstring.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qevent.h
+	"../../src/gui/kernel/qevent.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qevent.h
+	<QtGui/qwindowdefs.h>
+	<QtCore/qobject.h>
+	<QtGui/qregion.h>
+	<QtCore/qnamespace.h>
+	<QtCore/qstring.h>
+	<QtGui/qkeysequence.h>
+	<QtCore/qcoreevent.h>
+	<QtGui/qmime.h>
+	<QtGui/qdrag.h>
+	<QtCore/qvariant.h>
+	<QtCore/qmap.h>
+	<QtCore/qset.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qmime.h
+	"../../src/gui/kernel/qmime.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qmime.h
+	<QtCore/qmimedata.h>
+	<QtCore/qvariant.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qdrag.h
+	"../../src/gui/kernel/qdrag.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qdrag.h
+	<QtCore/qobject.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qabstractprintdialog.h
+	"../../src/gui/dialogs/qabstractprintdialog.h"
+
+1301462344 d:\qt\4.7.3\src\gui\dialogs\qabstractprintdialog.h
+	<QtGui/qdialog.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qcolordialog.h
+	"../../src/gui/dialogs/qcolordialog.h"
+
+1301462344 d:\qt\4.7.3\src\gui\dialogs\qcolordialog.h
+	<QtGui/qdialog.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qerrormessage.h
+	"../../src/gui/dialogs/qerrormessage.h"
+
+1301462344 d:\qt\4.7.3\src\gui\dialogs\qerrormessage.h
+	<QtGui/qdialog.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qfiledialog.h
+	"../../src/gui/dialogs/qfiledialog.h"
+
+1301462344 d:\qt\4.7.3\src\gui\dialogs\qfiledialog.h
+	<QtCore/qdir.h>
+	<QtCore/qstring.h>
+	<QtGui/qdialog.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qfilesystemmodel.h
+	"../../src/gui/dialogs/qfilesystemmodel.h"
+
+1301462344 d:\qt\4.7.3\src\gui\dialogs\qfilesystemmodel.h
+	<QtCore/qabstractitemmodel.h>
+	<QtCore/qpair.h>
+	<QtCore/qdir.h>
+	<QtGui/qicon.h>
+	<QtCore/qdiriterator.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qicon.h
+	"../../src/gui/image/qicon.h"
+
+1301462344 d:\qt\4.7.3\src\gui\image\qicon.h
+	<QtCore/qglobal.h>
+	<QtCore/qsize.h>
+	<QtCore/qlist.h>
+	<QtGui/qpixmap.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qfontdialog.h
+	"../../src/gui/dialogs/qfontdialog.h"
+
+1301462344 d:\qt\4.7.3\src\gui\dialogs\qfontdialog.h
+	<QtGui/qwindowdefs.h>
+	<QtGui/qdialog.h>
+	<QtGui/qfont.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qinputdialog.h
+	"../../src/gui/dialogs/qinputdialog.h"
+
+1301462344 d:\qt\4.7.3\src\gui\dialogs\qinputdialog.h
+	<QtGui/qdialog.h>
+	<QtCore/qstring.h>
+	<QtGui/qlineedit.h>
+
+1301462176 d:\qt\4.7.3\include\qtgui\qlineedit.h
+	"../../src/gui/widgets/qlineedit.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qlineedit.h
+	<QtGui/qframe.h>
+	<QtCore/qstring.h>
+	<QtCore/qmargins.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qframe.h
+	"../../src/gui/widgets/qframe.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qframe.h
+	<QtGui/qwidget.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qmessagebox.h
+	"../../src/gui/dialogs/qmessagebox.h"
+
+1301462344 d:\qt\4.7.3\src\gui\dialogs\qmessagebox.h
+	<QtGui/qdialog.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qpagesetupdialog.h
+	"../../src/gui/dialogs/qpagesetupdialog.h"
+
+1301462344 d:\qt\4.7.3\src\gui\dialogs\qpagesetupdialog.h
+	<QtGui/qabstractpagesetupdialog.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qprintdialog.h
+	"../../src/gui/dialogs/qprintdialog.h"
+
+1301462344 d:\qt\4.7.3\src\gui\dialogs\qprintdialog.h
+	<QtGui/qabstractprintdialog.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qprintpreviewdialog.h
+	"../../src/gui/dialogs/qprintpreviewdialog.h"
+
+1301462344 d:\qt\4.7.3\src\gui\dialogs\qprintpreviewdialog.h
+	<QtGui/qdialog.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qprogressdialog.h
+	"../../src/gui/dialogs/qprogressdialog.h"
+
+1301462344 d:\qt\4.7.3\src\gui\dialogs\qprogressdialog.h
+	<QtGui/qdialog.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qwizard.h
+	"../../src/gui/dialogs/qwizard.h"
+
+1301462344 d:\qt\4.7.3\src\gui\dialogs\qwizard.h
+	<QtGui/qdialog.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qvfbhdr.h
+	"../../src/gui/embedded/qvfbhdr.h"
+
+1301462344 d:\qt\4.7.3\src\gui\embedded\qvfbhdr.h
+	<QtGui/qcolor.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qrect.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qwsembedwidget.h
+	"../../src/gui/embedded/qwsembedwidget.h"
+
+1301462344 d:\qt\4.7.3\src\gui\embedded\qwsembedwidget.h
+	<QtGui/qwidget.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qgraphicsanchorlayout.h
+	"../../src/gui/graphicsview/qgraphicsanchorlayout.h"
+
+1301462344 d:\qt\4.7.3\src\gui\graphicsview\qgraphicsanchorlayout.h
+	<QtGui/qgraphicsitem.h>
+	<QtGui/qgraphicslayout.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qgraphicsitem.h
+	"../../src/gui/graphicsview/qgraphicsitem.h"
+
+1301462344 d:\qt\4.7.3\src\gui\graphicsview\qgraphicsitem.h
+	<QtCore/qglobal.h>
+	<QtCore/qobject.h>
+	<QtCore/qvariant.h>
+	<QtCore/qrect.h>
+	<QtCore/qscopedpointer.h>
+	<QtGui/qpainterpath.h>
+	<QtGui/qpixmap.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qgraphicslayout.h
+	"../../src/gui/graphicsview/qgraphicslayout.h"
+
+1301462344 d:\qt\4.7.3\src\gui\graphicsview\qgraphicslayout.h
+	<QtGui/qgraphicslayoutitem.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qgraphicslayoutitem.h
+	"../../src/gui/graphicsview/qgraphicslayoutitem.h"
+
+1301462344 d:\qt\4.7.3\src\gui\graphicsview\qgraphicslayoutitem.h
+	<QtCore/qscopedpointer.h>
+	<QtGui/qsizepolicy.h>
+	<QtGui/qevent.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qgraphicsgridlayout.h
+	"../../src/gui/graphicsview/qgraphicsgridlayout.h"
+
+1301462344 d:\qt\4.7.3\src\gui\graphicsview\qgraphicsgridlayout.h
+	<QtGui/qgraphicsitem.h>
+	<QtGui/qgraphicslayout.h>
+
+1301462176 d:\qt\4.7.3\include\qtgui\qgraphicsitemanimation.h
+	"../../src/gui/graphicsview/qgraphicsitemanimation.h"
+
+1301462344 d:\qt\4.7.3\src\gui\graphicsview\qgraphicsitemanimation.h
+	<QtCore/qobject.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qgraphicslinearlayout.h
+	"../../src/gui/graphicsview/qgraphicslinearlayout.h"
+
+1301462344 d:\qt\4.7.3\src\gui\graphicsview\qgraphicslinearlayout.h
+	<QtGui/qgraphicsitem.h>
+	<QtGui/qgraphicslayout.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qgraphicsproxywidget.h
+	"../../src/gui/graphicsview/qgraphicsproxywidget.h"
+
+1301462344 d:\qt\4.7.3\src\gui\graphicsview\qgraphicsproxywidget.h
+	<QtGui/qgraphicswidget.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qgraphicswidget.h
+	"../../src/gui/graphicsview/qgraphicswidget.h"
+
+1301462344 d:\qt\4.7.3\src\gui\graphicsview\qgraphicswidget.h
+	<QtGui/qfont.h>
+	<QtGui/qgraphicslayoutitem.h>
+	<QtGui/qgraphicsitem.h>
+	<QtGui/qpalette.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qgraphicsscene.h
+	"../../src/gui/graphicsview/qgraphicsscene.h"
+
+1301462344 d:\qt\4.7.3\src\gui\graphicsview\qgraphicsscene.h
+	<QtCore/qobject.h>
+	<QtCore/qpoint.h>
+	<QtCore/qrect.h>
+	<QtGui/qbrush.h>
+	<QtGui/qfont.h>
+	<QtGui/qtransform.h>
+	<QtGui/qmatrix.h>
+	<QtGui/qpen.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qpen.h
+	"../../src/gui/painting/qpen.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qpen.h
+	<QtGui/qcolor.h>
+	<QtGui/qbrush.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qgraphicssceneevent.h
+	"../../src/gui/graphicsview/qgraphicssceneevent.h"
+
+1301462344 d:\qt\4.7.3\src\gui\graphicsview\qgraphicssceneevent.h
+	<QtCore/qcoreevent.h>
+	<QtCore/qpoint.h>
+	<QtCore/qscopedpointer.h>
+	<QtCore/qrect.h>
+	<QtGui/qpolygon.h>
+	<QtCore/qset.h>
+	<QtCore/qhash.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qgraphicstransform.h
+	"../../src/gui/graphicsview/qgraphicstransform.h"
+
+1301462344 d:\qt\4.7.3\src\gui\graphicsview\qgraphicstransform.h
+	<QtCore/QObject>
+	<QtGui/QVector3D>
+	<QtGui/QTransform>
+	<QtGui/QMatrix4x4>
+
+1301462146 d:\qt\4.7.3\include\qtcore\qobject
+	"qobject.h"
+
+1301462180 d:\qt\4.7.3\include\qtgui\qvector3d
+	"qvector3d.h"
+
+1301462180 d:\qt\4.7.3\include\qtgui\qvector3d.h
+	"../../src/gui/math3d/qvector3d.h"
+
+1301462344 d:\qt\4.7.3\src\gui\math3d\qvector3d.h
+	<QtCore/qpoint.h>
+	<QtCore/qmetatype.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtransform
+	"qtransform.h"
+
+1301462180 d:\qt\4.7.3\include\qtgui\qmatrix4x4
+	"qmatrix4x4.h"
+
+1301462176 d:\qt\4.7.3\include\qtgui\qmatrix4x4.h
+	"../../src/gui/math3d/qmatrix4x4.h"
+
+1301462344 d:\qt\4.7.3\src\gui\math3d\qmatrix4x4.h
+	<QtGui/qvector3d.h>
+	<QtGui/qvector4d.h>
+	<QtGui/qquaternion.h>
+	<QtGui/qgenericmatrix.h>
+	<QtCore/qrect.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qvector4d.h
+	"../../src/gui/math3d/qvector4d.h"
+
+1301462344 d:\qt\4.7.3\src\gui\math3d\qvector4d.h
+	<QtCore/qpoint.h>
+	<QtCore/qmetatype.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qquaternion.h
+	"../../src/gui/math3d/qquaternion.h"
+
+1301462344 d:\qt\4.7.3\src\gui\math3d\qquaternion.h
+	<QtGui/qvector3d.h>
+	<QtGui/qvector4d.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qgenericmatrix.h
+	"../../src/gui/math3d/qgenericmatrix.h"
+
+1301462344 d:\qt\4.7.3\src\gui\math3d\qgenericmatrix.h
+	<QtCore/qmetatype.h>
+	<QtCore/qdebug.h>
+	<QtCore/qdatastream.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qgraphicsview.h
+	"../../src/gui/graphicsview/qgraphicsview.h"
+
+1301462344 d:\qt\4.7.3\src\gui\graphicsview\qgraphicsview.h
+	<QtCore/qmetatype.h>
+	<QtGui/qpainter.h>
+	<QtGui/qscrollarea.h>
+	<QtGui/qgraphicsscene.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qpainter.h
+	"../../src/gui/painting/qpainter.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qpainter.h
+	<QtCore/qnamespace.h>
+	<QtCore/qrect.h>
+	<QtCore/qpoint.h>
+	<QtCore/qscopedpointer.h>
+	<QtGui/qpixmap.h>
+	<QtGui/qimage.h>
+	<QtGui/qtextoption.h>
+	<QtGui/qdrawutil.h>
+	<QtGui/qpolygon.h>
+	<QtGui/qpen.h>
+	<QtGui/qbrush.h>
+	<QtGui/qmatrix.h>
+	<QtGui/qtransform.h>
+	<QtGui/qfontinfo.h>
+	<QtGui/qfontmetrics.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtextoption.h
+	"../../src/gui/text/qtextoption.h"
+
+1301462346 d:\qt\4.7.3\src\gui\text\qtextoption.h
+	<QtCore/qnamespace.h>
+	<QtCore/qchar.h>
+	<QtCore/qmetatype.h>
+
+1301462176 d:\qt\4.7.3\include\qtgui\qdrawutil.h
+	"../../src/gui/painting/qdrawutil.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qdrawutil.h
+	<QtCore/qnamespace.h>
+	<QtCore/qstring.h>
+	<QtCore/qmargins.h>
+	<QtGui/qpixmap.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qscrollarea.h
+	"../../src/gui/widgets/qscrollarea.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qscrollarea.h
+	<QtGui/qabstractscrollarea.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qabstractscrollarea.h
+	"../../src/gui/widgets/qabstractscrollarea.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qabstractscrollarea.h
+	<QtGui/qframe.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qaction.h
+	"../../src/gui/kernel/qaction.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qaction.h
+	<QtGui/qkeysequence.h>
+	<QtCore/qstring.h>
+	<QtGui/qwidget.h>
+	<QtCore/qvariant.h>
+	<QtGui/qicon.h>
+	<QtGui/qactiongroup.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qactiongroup.h
+	"../../src/gui/kernel/qactiongroup.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qactiongroup.h
+	<QtGui/qaction.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qapplication.h
+	"../../src/gui/kernel/qapplication.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qapplication.h
+	<QtCore/qcoreapplication.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qpoint.h>
+	<QtCore/qsize.h>
+	<QtGui/qcursor.h>
+	<QtGui/qdesktopwidget.h>
+	<QtGui/qwidget.h>
+	<QtGui/qpalette.h>
+	<QtGui/qrgb.h>
+	<QtGui/qtransportauth_qws.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qdesktopwidget.h
+	"../../src/gui/kernel/qdesktopwidget.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qdesktopwidget.h
+	<QtGui/qwidget.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtransportauth_qws.h
+	"../../src/gui/embedded/qtransportauth_qws.h"
+
+1301462344 d:\qt\4.7.3\src\gui\embedded\qtransportauth_qws.h
+	<QtCore/qglobal.h>
+	<QtCore/qobject.h>
+	<QtCore/qhash.h>
+	<QtCore/qstring.h>
+	<QtCore/qbuffer.h>
+	<QtCore/qpointer.h>
+	<sys/types.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qboxlayout.h
+	"../../src/gui/kernel/qboxlayout.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qboxlayout.h
+	<QtGui/qlayout.h>
+	<QtGui/qwidget.h>
+	<limits.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qlayout.h
+	"../../src/gui/kernel/qlayout.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qlayout.h
+	<QtCore/qobject.h>
+	<QtGui/qlayoutitem.h>
+	<QtGui/qsizepolicy.h>
+	<QtCore/qrect.h>
+	<QtCore/qmargins.h>
+	<limits.h>
+	<QtGui/qboxlayout.h>
+	<QtGui/qgridlayout.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qlayoutitem.h
+	"../../src/gui/kernel/qlayoutitem.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qlayoutitem.h
+	<QtGui/qsizepolicy.h>
+	<QtCore/qrect.h>
+	<limits.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qgridlayout.h
+	"../../src/gui/kernel/qgridlayout.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qgridlayout.h
+	<QtGui/qlayout.h>
+	<QtGui/qwidget.h>
+	<limits.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qclipboard.h
+	"../../src/gui/kernel/qclipboard.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qclipboard.h
+	<QtCore/qobject.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qformlayout.h
+	"../../src/gui/kernel/qformlayout.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qformlayout.h
+	<QtGui/QLayout>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qlayout
+	"qlayout.h"
+
+1301462180 d:\qt\4.7.3\include\qtgui\qgesture.h
+	"../../src/gui/kernel/qgesture.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qgesture.h
+	<QtCore/qobject.h>
+	<QtCore/qlist.h>
+	<QtCore/qdatetime.h>
+	<QtCore/qpoint.h>
+	<QtCore/qrect.h>
+	<QtCore/qmetatype.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qgesturerecognizer.h
+	"../../src/gui/kernel/qgesturerecognizer.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qgesturerecognizer.h
+	<QtCore/qglobal.h>
+	<QtCore/qnamespace.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qsessionmanager.h
+	"../../src/gui/kernel/qsessionmanager.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qsessionmanager.h
+	<QtCore/qobject.h>
+	<QtGui/qwindowdefs.h>
+	<QtCore/qstring.h>
+	<QtCore/qstringlist.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qshortcut.h
+	"../../src/gui/kernel/qshortcut.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qshortcut.h
+	<QtGui/qwidget.h>
+	<QtGui/qkeysequence.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qsound.h
+	"../../src/gui/kernel/qsound.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qsound.h
+	<QtCore/qobject.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qstackedlayout.h
+	"../../src/gui/kernel/qstackedlayout.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qstackedlayout.h
+	<QtGui/qlayout.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtooltip.h
+	"../../src/gui/kernel/qtooltip.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qtooltip.h
+	<QtGui/qwidget.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qwhatsthis.h
+	"../../src/gui/kernel/qwhatsthis.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qwhatsthis.h
+	<QtCore/qobject.h>
+	<QtGui/qcursor.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qwidgetaction.h
+	"../../src/gui/kernel/qwidgetaction.h"
+
+1301462344 d:\qt\4.7.3\src\gui\kernel\qwidgetaction.h
+	<QtGui/qaction.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qgraphicseffect.h
+	"../../src/gui/effects/qgraphicseffect.h"
+
+1301462344 d:\qt\4.7.3\src\gui\effects\qgraphicseffect.h
+	<QtCore/qobject.h>
+	<QtCore/qpoint.h>
+	<QtCore/qrect.h>
+	<QtGui/qcolor.h>
+	<QtGui/qbrush.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qs60mainapplication.h
+	"../../src/gui/s60framework/qs60mainapplication.h"
+
+1301462344 d:\qt\4.7.3\src\gui\s60framework\qs60mainapplication.h
+	<QtCore/qglobal.h>
+	<aknapp.h>
+	<eikapp.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qs60mainappui.h
+	"../../src/gui/s60framework/qs60mainappui.h"
+
+1301462344 d:\qt\4.7.3\src\gui\s60framework\qs60mainappui.h
+	<QtCore/qglobal.h>
+	<aknappui.h>
+	<eikappui.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qs60maindocument.h
+	"../../src/gui/s60framework/qs60maindocument.h"
+
+1301462344 d:\qt\4.7.3\src\gui\s60framework\qs60maindocument.h
+	<QtCore/qglobal.h>
+	<AknDoc.h>
+	<eikdoc.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qvector2d.h
+	"../../src/gui/math3d/qvector2d.h"
+
+1301462344 d:\qt\4.7.3\src\gui\math3d\qvector2d.h
+	<QtCore/qpoint.h>
+	<QtCore/qmetatype.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qbitmap.h
+	"../../src/gui/image/qbitmap.h"
+
+1301462344 d:\qt\4.7.3\src\gui\image\qbitmap.h
+	<QtGui/qpixmap.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qiconengine.h
+	"../../src/gui/image/qiconengine.h"
+
+1301462344 d:\qt\4.7.3\src\gui\image\qiconengine.h
+	<QtCore/qglobal.h>
+	<QtCore/qlist.h>
+	<QtGui/qicon.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qiconengineplugin.h
+	"../../src/gui/image/qiconengineplugin.h"
+
+1301462344 d:\qt\4.7.3\src\gui\image\qiconengineplugin.h
+	<QtCore/qplugin.h>
+	<QtCore/qfactoryinterface.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qimageiohandler.h
+	"../../src/gui/image/qimageiohandler.h"
+
+1301462344 d:\qt\4.7.3\src\gui\image\qimageiohandler.h
+	<QtCore/qplugin.h>
+	<QtCore/qfactoryinterface.h>
+	<QtCore/qscopedpointer.h>
+
+1301462176 d:\qt\4.7.3\include\qtgui\qimagereader.h
+	"../../src/gui/image/qimagereader.h"
+
+1301462344 d:\qt\4.7.3\src\gui\image\qimagereader.h
+	<QtCore/qbytearray.h>
+	<QtGui/qimage.h>
+	<QtGui/qimageiohandler.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qimagewriter.h
+	"../../src/gui/image/qimagewriter.h"
+
+1301462344 d:\qt\4.7.3\src\gui\image\qimagewriter.h
+	<QtCore/qbytearray.h>
+	<QtCore/qlist.h>
+	<QtGui/qimageiohandler.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qmovie.h
+	"../../src/gui/image/qmovie.h"
+
+1301462344 d:\qt\4.7.3\src\gui\image\qmovie.h
+	<QtCore/qobject.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qlist.h>
+	<QtCore/qobject.h>
+	<QtGui/qimagereader.h>
+	<QtGui/qimage.h>
+	<QtGui/qpixmap.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qpicture.h
+	"../../src/gui/image/qpicture.h"
+
+1301462344 d:\qt\4.7.3\src\gui\image\qpicture.h
+	<QtCore/qstringlist.h>
+	<QtCore/qsharedpointer.h>
+	<QtGui/qpaintdevice.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qpictureformatplugin.h
+	"../../src/gui/image/qpictureformatplugin.h"
+
+1301462344 d:\qt\4.7.3\src\gui\image\qpictureformatplugin.h
+	<QtCore/qplugin.h>
+	<QtCore/qfactoryinterface.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qpixmapcache.h
+	"../../src/gui/image/qpixmapcache.h"
+
+1301462344 d:\qt\4.7.3\src\gui\image\qpixmapcache.h
+	<QtGui/qpixmap.h>
+	<QtCore/qpair.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qsymbianevent.h
+	"../../src/gui/symbian/qsymbianevent.h"
+
+1301462344 d:\qt\4.7.3\src\gui\symbian\qsymbianevent.h
+	<QtCore/qglobal.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qabstracttextdocumentlayout.h
+	"../../src/gui/text/qabstracttextdocumentlayout.h"
+
+1301462346 d:\qt\4.7.3\src\gui\text\qabstracttextdocumentlayout.h
+	<QtCore/qobject.h>
+	<QtGui/qtextlayout.h>
+	<QtGui/qtextdocument.h>
+	<QtGui/qtextcursor.h>
+	<QtGui/qpalette.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtextlayout.h
+	"../../src/gui/text/qtextlayout.h"
+
+1301462346 d:\qt\4.7.3\src\gui\text\qtextlayout.h
+	<QtCore/qstring.h>
+	<QtCore/qnamespace.h>
+	<QtCore/qrect.h>
+	<QtCore/qvector.h>
+	<QtGui/qcolor.h>
+	<QtCore/qobject.h>
+	<QtGui/qevent.h>
+	<QtGui/qtextformat.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtextformat.h
+	"../../src/gui/text/qtextformat.h"
+
+1301462346 d:\qt\4.7.3\src\gui\text\qtextformat.h
+	<QtGui/qcolor.h>
+	<QtGui/qfont.h>
+	<QtCore/qshareddata.h>
+	<QtCore/qvector.h>
+	<QtCore/qvariant.h>
+	<QtGui/qpen.h>
+	<QtGui/qbrush.h>
+	<QtGui/qtextoption.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtextdocument.h
+	"../../src/gui/text/qtextdocument.h"
+
+1301462346 d:\qt\4.7.3\src\gui\text\qtextdocument.h
+	<QtCore/qobject.h>
+	<QtCore/qsize.h>
+	<QtCore/qrect.h>
+	<QtGui/qfont.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtextcursor.h
+	"../../src/gui/text/qtextcursor.h"
+
+1301462346 d:\qt\4.7.3\src\gui\text\qtextcursor.h
+	<QtCore/qstring.h>
+	<QtCore/qshareddata.h>
+	<QtGui/qtextformat.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qfontdatabase.h
+	"../../src/gui/text/qfontdatabase.h"
+
+1301462346 d:\qt\4.7.3\src\gui\text\qfontdatabase.h
+	<QtGui/qwindowdefs.h>
+	<QtCore/qstring.h>
+	<QtGui/qfont.h>
+	<QtCore/qstringlist.h>
+	<QtCore/qlist.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qstatictext.h
+	"../../src/gui/text/qstatictext.h"
+
+1301462346 d:\qt\4.7.3\src\gui\text\qstatictext.h
+	<QtCore/qsize.h>
+	<QtCore/qstring.h>
+	<QtCore/qmetatype.h>
+	<QtGui/qtransform.h>
+	<QtGui/qfont.h>
+	<QtGui/qtextoption.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qsyntaxhighlighter.h
+	"../../src/gui/text/qsyntaxhighlighter.h"
+
+1301462346 d:\qt\4.7.3\src\gui\text\qsyntaxhighlighter.h
+	<QtCore/qglobal.h>
+	<QtCore/qobject.h>
+	<QtGui/qtextobject.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtextobject.h
+	"../../src/gui/text/qtextobject.h"
+
+1301462346 d:\qt\4.7.3\src\gui\text\qtextobject.h
+	<QtCore/qobject.h>
+	<QtGui/qtextformat.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtextdocumentfragment.h
+	"../../src/gui/text/qtextdocumentfragment.h"
+
+1301462346 d:\qt\4.7.3\src\gui\text\qtextdocumentfragment.h
+	<QtCore/qstring.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qtextdocumentwriter.h
+	"../../src/gui/text/qtextdocumentwriter.h"
+
+1301462346 d:\qt\4.7.3\src\gui\text\qtextdocumentwriter.h
+	<QtCore/qstring.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtextlist.h
+	"../../src/gui/text/qtextlist.h"
+
+1301462346 d:\qt\4.7.3\src\gui\text\qtextlist.h
+	<QtGui/qtextobject.h>
+	<QtCore/qobject.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtexttable.h
+	"../../src/gui/text/qtexttable.h"
+
+1301462346 d:\qt\4.7.3\src\gui\text\qtexttable.h
+	<QtCore/qglobal.h>
+	<QtCore/qobject.h>
+	<QtGui/qtextobject.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qabstractitemdelegate.h
+	"../../src/gui/itemviews/qabstractitemdelegate.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qabstractitemdelegate.h
+	<QtCore/qobject.h>
+	<QtGui/qstyleoption.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qstyleoption.h
+	"../../src/gui/styles/qstyleoption.h"
+
+1301462348 d:\qt\4.7.3\src\gui\styles\qstyleoption.h
+	<QtCore/qvariant.h>
+	<QtGui/qabstractspinbox.h>
+	<QtGui/qicon.h>
+	<QtGui/qmatrix.h>
+	<QtGui/qslider.h>
+	<QtGui/qstyle.h>
+	<QtGui/qtabbar.h>
+	<QtGui/qtabwidget.h>
+	<QtGui/qrubberband.h>
+	<QtGui/qframe.h>
+	<QtCore/qabstractitemmodel.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qabstractspinbox.h
+	"../../src/gui/widgets/qabstractspinbox.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qabstractspinbox.h
+	<QtGui/qwidget.h>
+	<QtGui/qvalidator.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qvalidator.h
+	"../../src/gui/widgets/qvalidator.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qvalidator.h
+	<QtCore/qobject.h>
+	<QtCore/qstring.h>
+	<QtCore/qregexp.h>
+	<QtCore/qlocale.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qslider.h
+	"../../src/gui/widgets/qslider.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qslider.h
+	<QtGui/qabstractslider.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qabstractslider.h
+	"../../src/gui/widgets/qabstractslider.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qabstractslider.h
+	<QtGui/qwidget.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qstyle.h
+	"../../src/gui/styles/qstyle.h"
+
+1301462346 d:\qt\4.7.3\src\gui\styles\qstyle.h
+	<QtCore/qobject.h>
+	<QtCore/qrect.h>
+	<QtCore/qsize.h>
+	<QtGui/qicon.h>
+	<QtGui/qpixmap.h>
+	<QtGui/qpalette.h>
+	<QtGui/qsizepolicy.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtabbar.h
+	"../../src/gui/widgets/qtabbar.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qtabbar.h
+	<QtGui/qwidget.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtabwidget.h
+	"../../src/gui/widgets/qtabwidget.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qtabwidget.h
+	<QtGui/qwidget.h>
+	<QtGui/qicon.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qrubberband.h
+	"../../src/gui/widgets/qrubberband.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qrubberband.h
+	<QtGui/qwidget.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qabstractitemview.h
+	"../../src/gui/itemviews/qabstractitemview.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qabstractitemview.h
+	<QtGui/qabstractscrollarea.h>
+	<QtCore/qabstractitemmodel.h>
+	<QtGui/qitemselectionmodel.h>
+	<QtGui/qabstractitemdelegate.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qitemselectionmodel.h
+	"../../src/gui/itemviews/qitemselectionmodel.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qitemselectionmodel.h
+	<QtCore/qset.h>
+	<QtCore/qvector.h>
+	<QtCore/qlist.h>
+	<QtCore/qabstractitemmodel.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qabstractproxymodel.h
+	"../../src/gui/itemviews/qabstractproxymodel.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qabstractproxymodel.h
+	<QtCore/qabstractitemmodel.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qcolumnview.h
+	"../../src/gui/itemviews/qcolumnview.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qcolumnview.h
+	<QtGui/qabstractitemview.h>
+
+1301462176 d:\qt\4.7.3\include\qtgui\qdatawidgetmapper.h
+	"../../src/gui/itemviews/qdatawidgetmapper.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qdatawidgetmapper.h
+	"QtCore/qobject.h"
+
+1301462180 d:\qt\4.7.3\include\qtgui\qdirmodel.h
+	"../../src/gui/itemviews/qdirmodel.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qdirmodel.h
+	<QtCore/qabstractitemmodel.h>
+	<QtCore/qdir.h>
+	<QtGui/qfileiconprovider.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qfileiconprovider.h
+	"../../src/gui/itemviews/qfileiconprovider.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qfileiconprovider.h
+	<QtCore/qfileinfo.h>
+	<QtCore/qscopedpointer.h>
+	<QtGui/qicon.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qheaderview.h
+	"../../src/gui/itemviews/qheaderview.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qheaderview.h
+	<QtGui/qabstractitemview.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qitemdelegate.h
+	"../../src/gui/itemviews/qitemdelegate.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qitemdelegate.h
+	<QtGui/qabstractitemdelegate.h>
+	<QtCore/qstring.h>
+	<QtGui/qpixmap.h>
+	<QtCore/qvariant.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qitemeditorfactory.h
+	"../../src/gui/itemviews/qitemeditorfactory.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qitemeditorfactory.h
+	<QtCore/qmetaobject.h>
+	<QtCore/qbytearray.h>
+	<QtCore/qhash.h>
+	<QtCore/qvariant.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qlistview.h
+	"../../src/gui/itemviews/qlistview.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qlistview.h
+	<QtGui/qabstractitemview.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qlistwidget.h
+	"../../src/gui/itemviews/qlistwidget.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qlistwidget.h
+	<QtGui/qlistview.h>
+	<QtCore/qvariant.h>
+	<QtCore/qvector.h>
+	<QtGui/qitemselectionmodel.h>
+
+1301462176 d:\qt\4.7.3\include\qtgui\qproxymodel.h
+	"../../src/gui/itemviews/qproxymodel.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qproxymodel.h
+	<QtCore/qabstractitemmodel.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qsortfilterproxymodel.h
+	"../../src/gui/itemviews/qsortfilterproxymodel.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qsortfilterproxymodel.h
+	<QtGui/qabstractproxymodel.h>
+	<QtCore/qregexp.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qstandarditemmodel.h
+	"../../src/gui/itemviews/qstandarditemmodel.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qstandarditemmodel.h
+	<QtCore/qabstractitemmodel.h>
+	<QtGui/qbrush.h>
+	<QtGui/qfont.h>
+	<QtGui/qicon.h>
+	<QtCore/qdatastream.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qstringlistmodel.h
+	"../../src/gui/itemviews/qstringlistmodel.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qstringlistmodel.h
+	<QtCore/qstringlist.h>
+	<QtGui/qabstractitemview.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qstyleditemdelegate.h
+	"../../src/gui/itemviews/qstyleditemdelegate.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qstyleditemdelegate.h
+	<QtGui/qabstractitemdelegate.h>
+	<QtCore/qstring.h>
+	<QtGui/qpixmap.h>
+	<QtCore/qvariant.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtableview.h
+	"../../src/gui/itemviews/qtableview.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qtableview.h
+	<QtGui/qabstractitemview.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qtablewidget.h
+	"../../src/gui/itemviews/qtablewidget.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qtablewidget.h
+	<QtGui/qtableview.h>
+	<QtCore/qvariant.h>
+	<QtCore/qvector.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtreeview.h
+	"../../src/gui/itemviews/qtreeview.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qtreeview.h
+	<QtGui/qabstractitemview.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtreewidget.h
+	"../../src/gui/itemviews/qtreewidget.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qtreewidget.h
+	<QtGui/qtreeview.h>
+	<QtGui/qtreewidgetitemiterator.h>
+	<QtCore/qvariant.h>
+	<QtCore/qvector.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qtreewidgetitemiterator.h
+	"../../src/gui/itemviews/qtreewidgetitemiterator.h"
+
+1301462346 d:\qt\4.7.3\src\gui\itemviews\qtreewidgetitemiterator.h
+	<QtCore/qglobal.h>
+	<QtCore/qscopedpointer.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qabstractbutton.h
+	"../../src/gui/widgets/qabstractbutton.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qabstractbutton.h
+	<QtGui/qicon.h>
+	<QtGui/qkeysequence.h>
+	<QtGui/qwidget.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qbuttongroup.h
+	"../../src/gui/widgets/qbuttongroup.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qbuttongroup.h
+	<QtCore/qobject.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qcalendarwidget.h
+	"../../src/gui/widgets/qcalendarwidget.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qcalendarwidget.h
+	<QtGui/qwidget.h>
+	<QtCore/qdatetime.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qcheckbox.h
+	"../../src/gui/widgets/qcheckbox.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qcheckbox.h
+	<QtGui/qabstractbutton.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qcombobox.h
+	"../../src/gui/widgets/qcombobox.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qcombobox.h
+	<QtGui/qwidget.h>
+	<QtGui/qabstractitemdelegate.h>
+	<QtCore/qabstractitemmodel.h>
+	<QtCore/qvariant.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qcommandlinkbutton.h
+	"../../src/gui/widgets/qcommandlinkbutton.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qcommandlinkbutton.h
+	<QtGui/qpushbutton.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qpushbutton.h
+	"../../src/gui/widgets/qpushbutton.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qpushbutton.h
+	<QtGui/qabstractbutton.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qdatetimeedit.h
+	"../../src/gui/widgets/qdatetimeedit.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qdatetimeedit.h
+	<QtCore/qdatetime.h>
+	<QtCore/qvariant.h>
+	<QtGui/qabstractspinbox.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qdial.h
+	"../../src/gui/widgets/qdial.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qdial.h
+	<QtGui/qabstractslider.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qdialogbuttonbox.h
+	"../../src/gui/widgets/qdialogbuttonbox.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qdialogbuttonbox.h
+	<QtGui/qwidget.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qdockwidget.h
+	"../../src/gui/widgets/qdockwidget.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qdockwidget.h
+	<QtGui/qwidget.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qfocusframe.h
+	"../../src/gui/widgets/qfocusframe.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qfocusframe.h
+	<QtGui/qwidget.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qfontcombobox.h
+	"../../src/gui/widgets/qfontcombobox.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qfontcombobox.h
+	<QtGui/qcombobox.h>
+	<QtGui/qfontdatabase.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qgroupbox.h
+	"../../src/gui/widgets/qgroupbox.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qgroupbox.h
+	<QtGui/qframe.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qlabel.h
+	"../../src/gui/widgets/qlabel.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qlabel.h
+	<QtGui/qframe.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qlcdnumber.h
+	"../../src/gui/widgets/qlcdnumber.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qlcdnumber.h
+	<QtGui/qframe.h>
+	<QtCore/qbitarray.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qmainwindow.h
+	"../../src/gui/widgets/qmainwindow.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qmainwindow.h
+	<QtGui/qwidget.h>
+	<QtGui/qtabwidget.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qmdiarea.h
+	"../../src/gui/widgets/qmdiarea.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qmdiarea.h
+	<QtGui/qabstractscrollarea.h>
+	<QtGui/qtabwidget.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qmdisubwindow.h
+	"../../src/gui/widgets/qmdisubwindow.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qmdisubwindow.h
+	<QtGui/qwidget.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qmenu.h
+	"../../src/gui/widgets/qmenu.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qmenu.h
+	<QtGui/qwidget.h>
+	<QtCore/qstring.h>
+	<QtGui/qicon.h>
+	<QtGui/qaction.h>
+	<QtGui/qpixmap.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qmenubar.h
+	"../../src/gui/widgets/qmenubar.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qmenubar.h
+	<QtGui/qmenu.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qmenudata.h
+	"../../src/gui/widgets/qmenudata.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qmenudata.h
+	<QtCore/qglobal.h>
+	<QtGui/qaction.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qplaintextedit.h
+	"../../src/gui/widgets/qplaintextedit.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qplaintextedit.h
+	<QtGui/qtextedit.h>
+	<QtGui/qabstractscrollarea.h>
+	<QtGui/qtextdocument.h>
+	<QtGui/qtextoption.h>
+	<QtGui/qtextcursor.h>
+	<QtGui/qtextformat.h>
+	<QtGui/qabstracttextdocumentlayout.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qtextedit.h
+	"../../src/gui/widgets/qtextedit.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qtextedit.h
+	<QtGui/qabstractscrollarea.h>
+	<QtGui/qtextdocument.h>
+	<QtGui/qtextoption.h>
+	<QtGui/qtextcursor.h>
+	<QtGui/qtextformat.h>
+	<QtGui/qtextobject.h>
+	<QtGui/qtextlayout.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qprintpreviewwidget.h
+	"../../src/gui/widgets/qprintpreviewwidget.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qprintpreviewwidget.h
+	<QtGui/qwidget.h>
+	<QtGui/qprinter.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qprinter.h
+	"../../src/gui/painting/qprinter.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qprinter.h
+	<QtCore/qstring.h>
+	<QtCore/qscopedpointer.h>
+	<QtGui/qpaintdevice.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qprogressbar.h
+	"../../src/gui/widgets/qprogressbar.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qprogressbar.h
+	<QtGui/qframe.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qradiobutton.h
+	"../../src/gui/widgets/qradiobutton.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qradiobutton.h
+	<QtGui/qabstractbutton.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qscrollbar.h
+	"../../src/gui/widgets/qscrollbar.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qscrollbar.h
+	<QtGui/qwidget.h>
+	<QtGui/qabstractslider.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qsizegrip.h
+	"../../src/gui/widgets/qsizegrip.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qsizegrip.h
+	<QtGui/qwidget.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qspinbox.h
+	"../../src/gui/widgets/qspinbox.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qspinbox.h
+	<QtGui/qabstractspinbox.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qsplashscreen.h
+	"../../src/gui/widgets/qsplashscreen.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qsplashscreen.h
+	<QtGui/qpixmap.h>
+	<QtGui/qwidget.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qsplitter.h
+	"../../src/gui/widgets/qsplitter.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qsplitter.h
+	<QtGui/qframe.h>
+	<QtGui/qsizepolicy.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qstackedwidget.h
+	"../../src/gui/widgets/qstackedwidget.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qstackedwidget.h
+	<QtGui/qframe.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qstatusbar.h
+	"../../src/gui/widgets/qstatusbar.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qstatusbar.h
+	<QtGui/qwidget.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtextbrowser.h
+	"../../src/gui/widgets/qtextbrowser.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qtextbrowser.h
+	<QtGui/qtextedit.h>
+	<QtCore/qurl.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtoolbar.h
+	"../../src/gui/widgets/qtoolbar.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qtoolbar.h
+	<QtGui/qwidget.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtoolbox.h
+	"../../src/gui/widgets/qtoolbox.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qtoolbox.h
+	<QtGui/qframe.h>
+	<QtGui/qicon.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qtoolbutton.h
+	"../../src/gui/widgets/qtoolbutton.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qtoolbutton.h
+	<QtGui/qabstractbutton.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qworkspace.h
+	"../../src/gui/widgets/qworkspace.h"
+
+1301462346 d:\qt\4.7.3\src\gui\widgets\qworkspace.h
+	<QtGui/qwidget.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qkeyeventtransition.h
+	"../../src/gui/statemachine/qkeyeventtransition.h"
+
+1301462346 d:\qt\4.7.3\src\gui\statemachine\qkeyeventtransition.h
+	<QtCore/qeventtransition.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qmouseeventtransition.h
+	"../../src/gui/statemachine/qmouseeventtransition.h"
+
+1301462346 d:\qt\4.7.3\src\gui\statemachine\qmouseeventtransition.h
+	<QtCore/qeventtransition.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qcompleter.h
+	"../../src/gui/util/qcompleter.h"
+
+1301462346 d:\qt\4.7.3\src\gui\util\qcompleter.h
+	<QtCore/qobject.h>
+	<QtCore/qpoint.h>
+	<QtCore/qstring.h>
+	<QtCore/qabstractitemmodel.h>
+	<QtCore/qrect.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qdesktopservices.h
+	"../../src/gui/util/qdesktopservices.h"
+
+1301462346 d:\qt\4.7.3\src\gui\util\qdesktopservices.h
+	<QtCore/qstring.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qsystemtrayicon.h
+	"../../src/gui/util/qsystemtrayicon.h"
+
+1301462346 d:\qt\4.7.3\src\gui\util\qsystemtrayicon.h
+	<QtCore/qobject.h>
+	<QtGui/qicon.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qundogroup.h
+	"../../src/gui/util/qundogroup.h"
+
+1301462346 d:\qt\4.7.3\src\gui\util\qundogroup.h
+	<QtCore/qobject.h>
+	<QtCore/qstring.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qundostack.h
+	"../../src/gui/util/qundostack.h"
+
+1301462346 d:\qt\4.7.3\src\gui\util\qundostack.h
+	<QtCore/qobject.h>
+	<QtCore/qstring.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qundoview.h
+	"../../src/gui/util/qundoview.h"
+
+1301462346 d:\qt\4.7.3\src\gui\util\qundoview.h
+	<QtGui/qlistview.h>
+	<QtCore/qstring.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qaccessible.h
+	"../../src/gui/accessible/qaccessible.h"
+
+1301462346 d:\qt\4.7.3\src\gui\accessible\qaccessible.h
+	<QtCore/qglobal.h>
+	<QtCore/qobject.h>
+	<QtCore/qrect.h>
+	<QtCore/qset.h>
+	<QtCore/qvector.h>
+	<QtCore/qvariant.h>
+	<QtGui/qcolor.h>
+	<QtGui/qevent.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qaccessible2.h
+	"../../src/gui/accessible/qaccessible2.h"
+
+1301462346 d:\qt\4.7.3\src\gui\accessible\qaccessible2.h
+	<QtGui/qaccessible.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qaccessiblebridge.h
+	"../../src/gui/accessible/qaccessiblebridge.h"
+
+1301462346 d:\qt\4.7.3\src\gui\accessible\qaccessiblebridge.h
+	<QtCore/qplugin.h>
+	<QtCore/qfactoryinterface.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qaccessibleobject.h
+	"../../src/gui/accessible/qaccessibleobject.h"
+
+1301462346 d:\qt\4.7.3\src\gui\accessible\qaccessibleobject.h
+	<QtGui/qaccessible.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qaccessibleplugin.h
+	"../../src/gui/accessible/qaccessibleplugin.h"
+
+1301462346 d:\qt\4.7.3\src\gui\accessible\qaccessibleplugin.h
+	<QtGui/qaccessible.h>
+	<QtCore/qfactoryinterface.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qaccessiblewidget.h
+	"../../src/gui/accessible/qaccessiblewidget.h"
+
+1301462346 d:\qt\4.7.3\src\gui\accessible\qaccessiblewidget.h
+	<QtGui/qaccessibleobject.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qcdestyle.h
+	"../../src/gui/styles/qcdestyle.h"
+
+1301462348 d:\qt\4.7.3\src\gui\styles\qcdestyle.h
+	<QtGui/qmotifstyle.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qmotifstyle.h
+	"../../src/gui/styles/qmotifstyle.h"
+
+1301462348 d:\qt\4.7.3\src\gui\styles\qmotifstyle.h
+	<QtGui/qcommonstyle.h>
+	<QtCore/qpointer.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qcommonstyle.h
+	"../../src/gui/styles/qcommonstyle.h"
+
+1301462348 d:\qt\4.7.3\src\gui\styles\qcommonstyle.h
+	<QtGui/qstyle.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qcleanlooksstyle.h
+	"../../src/gui/styles/qcleanlooksstyle.h"
+
+1301462346 d:\qt\4.7.3\src\gui\styles\qcleanlooksstyle.h
+	<QtGui/qwindowsstyle.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qwindowsstyle.h
+	"../../src/gui/styles/qwindowsstyle.h"
+
+1301462348 d:\qt\4.7.3\src\gui\styles\qwindowsstyle.h
+	<QtGui/qcommonstyle.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qgtkstyle.h
+	"../../src/gui/styles/qgtkstyle.h"
+
+1301462346 d:\qt\4.7.3\src\gui\styles\qgtkstyle.h
+	<QtGui/QCleanlooksStyle>
+	<QtGui/QPalette>
+	<QtGui/QFont>
+	<QtGui/QFileDialog>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qcleanlooksstyle
+	"qcleanlooksstyle.h"
+
+1301462180 d:\qt\4.7.3\include\qtgui\qpalette
+	"qpalette.h"
+
+1301462180 d:\qt\4.7.3\include\qtgui\qfont
+	"qfont.h"
+
+1301462180 d:\qt\4.7.3\include\qtgui\qfiledialog
+	"qfiledialog.h"
+
+1301462180 d:\qt\4.7.3\include\qtgui\qplastiquestyle.h
+	"../../src/gui/styles/qplastiquestyle.h"
+
+1301462346 d:\qt\4.7.3\src\gui\styles\qplastiquestyle.h
+	<QtGui/qwindowsstyle.h>
+
+1301462178 d:\qt\4.7.3\include\qtgui\qproxystyle.h
+	"../../src/gui/styles/qproxystyle.h"
+
+1301462346 d:\qt\4.7.3\src\gui\styles\qproxystyle.h
+	<QtGui/QCommonStyle>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qcommonstyle
+	"qcommonstyle.h"
+
+1301462180 d:\qt\4.7.3\include\qtgui\qs60style.h
+	"../../src/gui/styles/qs60style.h"
+
+1301462348 d:\qt\4.7.3\src\gui\styles\qs60style.h
+	<QtGui/qcommonstyle.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qstylefactory.h
+	"../../src/gui/styles/qstylefactory.h"
+
+1301462346 d:\qt\4.7.3\src\gui\styles\qstylefactory.h
+	<QtCore/qstringlist.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qstyleplugin.h
+	"../../src/gui/styles/qstyleplugin.h"
+
+1301462346 d:\qt\4.7.3\src\gui\styles\qstyleplugin.h
+	<QtCore/qplugin.h>
+	<QtCore/qfactoryinterface.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qwindowscestyle.h
+	"../../src/gui/styles/qwindowscestyle.h"
+
+1301462346 d:\qt\4.7.3\src\gui\styles\qwindowscestyle.h
+	<QtGui/qwindowsstyle.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qwindowsmobilestyle.h
+	"../../src/gui/styles/qwindowsmobilestyle.h"
+
+1301462346 d:\qt\4.7.3\src\gui\styles\qwindowsmobilestyle.h
+	<QtGui/qwindowsstyle.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qwindowsvistastyle.h
+	"../../src/gui/styles/qwindowsvistastyle.h"
+
+1301462346 d:\qt\4.7.3\src\gui\styles\qwindowsvistastyle.h
+	<QtGui/qwindowsxpstyle.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qwindowsxpstyle.h
+	"../../src/gui/styles/qwindowsxpstyle.h"
+
+1301462346 d:\qt\4.7.3\src\gui\styles\qwindowsxpstyle.h
+	<QtGui/qwindowsstyle.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qinputcontext.h
+	"../../src/gui/inputmethod/qinputcontext.h"
+
+1301462348 d:\qt\4.7.3\src\gui\inputmethod\qinputcontext.h
+	<QtCore/qobject.h>
+	<QtCore/qglobal.h>
+	<QtGui/qevent.h>
+	<QtCore/qstring.h>
+	<QtCore/qlist.h>
+	<QtGui/qaction.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qinputcontextfactory.h
+	"../../src/gui/inputmethod/qinputcontextfactory.h"
+
+1301462348 d:\qt\4.7.3\src\gui\inputmethod\qinputcontextfactory.h
+	<QtCore/qstringlist.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qinputcontextplugin.h
+	"../../src/gui/inputmethod/qinputcontextplugin.h"
+
+1301462348 d:\qt\4.7.3\src\gui\inputmethod\qinputcontextplugin.h
+	<QtCore/qplugin.h>
+	<QtCore/qfactoryinterface.h>
+	<QtCore/qstringlist.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qcolormap.h
+	"../../src/gui/painting/qcolormap.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qcolormap.h
+	<QtCore/qatomic.h>
+	<QtGui/qrgb.h>
+	<QtCore/qvector.h>
+	<QtGui/qwindowdefs.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qpaintengine.h
+	"../../src/gui/painting/qpaintengine.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qpaintengine.h
+	<QtCore/qnamespace.h>
+	<QtCore/qobjectdefs.h>
+	<QtCore/qscopedpointer.h>
+	<QtGui/qpainter.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qprintengine.h
+	"../../src/gui/painting/qprintengine.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qprintengine.h
+	<QtCore/qvariant.h>
+	<QtGui/qprinter.h>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qprinterinfo.h
+	"../../src/gui/painting/qprinterinfo.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qprinterinfo.h
+	<QtGui/QPrinter>
+	<QtCore/QList>
+
+1301462180 d:\qt\4.7.3\include\qtgui\qprinter
+	"qprinter.h"
+
+1301462148 d:\qt\4.7.3\include\qtcore\qlist
+	"qlist.h"
+
+1301462180 d:\qt\4.7.3\include\qtgui\qstylepainter.h
+	"../../src/gui/painting/qstylepainter.h"
+
+1301462348 d:\qt\4.7.3\src\gui\painting\qstylepainter.h
+	<QtGui/qpainter.h>
+	<QtGui/qstyle.h>
+	<QtGui/qwidget.h>
+
+1369432247 c:\users\Ò»Üø\desktop\mimu pc\mimu pc\mimugui.h
+	<QtGui>
+
+1369448878 source:c:\users\Ò»Üø\desktop\mimu pc\mimu pc\mimugui.cpp
+	<QtGui>
+	"stdafx.h"
+	"MIMUGUI.moc"
+
+1363679031 d:\qt\4.7.3\include\qtgui
+
+1369430048 c:\users\Ò»Üø\desktop\mimu pc\mimu pc\mimugui.moc
+	"MIMUGUI.h"
+

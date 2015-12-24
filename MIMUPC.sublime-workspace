@@ -1,0 +1,185 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"cmd"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Mocapview.sublime-build",
+	"command_palette":
+	{
+		"height": 35.0,
+		"selected_items":
+		[
+			[
+				"",
+				"View: Toggle Tabs"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Zim/Desktop/MIMU PC/ahrs.cpp",
+		"/C/Users/Zim/Desktop/MIMU PC/vector.h",
+		"/C/Users/Zim/Desktop/MIMU PC/targetver.h",
+		"/C/Users/Zim/Desktop/MIMU PC/stdafx.h",
+		"/C/Users/Zim/Desktop/MIMU PC/Sim.h",
+		"/C/Users/Zim/Desktop/MIMU PC/SetCursorTest.h",
+		"/C/Users/Zim/Desktop/MIMU PC/kalman.h",
+		"/C/Users/Zim/Desktop/MIMU PC/ahrs.h",
+		"/C/Users/Zim/Desktop/MIMU PC/stdafx.cpp",
+		"/C/Users/Zim/Desktop/MIMU PC/Sim.cpp",
+		"/C/Users/Zim/Desktop/MIMU PC/main.cpp",
+		"/C/Users/Zim/Desktop/MIMU PC/run.bat",
+		"/C/Users/Zim/Desktop/MIMU PC/algorithm.h",
+		"/C/Users/Zim/AppData/Roaming/Sublime Text 2/Packages/User/Mocapview.sublime-build",
+		"/C/Users/Zim/Desktop/MIMU PC/algorithm.cpp",
+		"/C/Users/Zim/Desktop/MIMU PC/SetCursorTest.cpp",
+		"/C/Users/Zim/Desktop/MIMU PC/kalman.cpp",
+		"/C/Users/Zim/Desktop/MIMU PC/error.txt",
+		"/C/Users/Zim/Desktop/新建文件夹/Makefile",
+		"/C/Users/Zim/Desktop/新建文件夹/algorithm.cpp",
+		"/D/E.科研开发/visualvision/MoCapViewer20130221/src/sapskeletalanimation.cpp",
+		"/D/E.科研开发/visualvision/MoCapViewer20130221/src/sapskeletalanimation.h",
+		"/D/E.科研开发/visualvision/MoCapViewer20130221/src/sapgeometry.cpp",
+		"/D/E.科研开发/visualvision/MoCapViewer20130221/src/sapgeometry.h",
+		"/D/E.科研开发/visualvision/MoCapViewer20130221/src/sapmaterial.cpp",
+		"/D/E.科研开发/visualvision/MoCapViewer20130221/src/sapmaterial.h",
+		"/D/E.科研开发/visualvision/MoCapViewer20130221/src/sapmd5loader.cpp",
+		"/D/E.科研开发/visualvision/MoCapViewer20130221/src/sapmd5loader.h",
+		"/D/E.科研开发/visualvision/MoCapViewer20130221/src/sapskinnedmesh.cpp",
+		"/D/E.科研开发/visualvision/MoCapViewer20130221/src/sapskinnedmesh.h",
+		"/D/E.科研开发/visualvision/MoCapViewer20130221/src/globaldefine.h",
+		"/D/E.科研开发/visualvision/MoCapViewer20130221/src/main.cpp",
+		"/D/E.科研开发/visualvision/MoCapViewer20130221/src/sapcamera.cpp",
+		"/D/E.科研开发/visualvision/MoCapViewer20130221/src/sapmd5animation.cpp",
+		"/D/E.科研开发/visualvision/MoCapViewer20130221/src/sapmd5animation.h",
+		"/D/E.科研开发/visualvision/MoCapViewer20130221/src/sapcamera.h",
+		"/D/E.科研开发/visualvision/MoCapViewer20130221/Makefile",
+		"/C/Users/Zim/Desktop/test.cpp",
+		"/C/Users/Zim/AppData/Roaming/Sublime Text 2/Packages/User/MINGW.sublime-build",
+		"/C/Users/Zim/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"printf"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 129.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 155.0,
+	"status_bar_visible": true
+}
